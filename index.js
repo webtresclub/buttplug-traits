@@ -1,19 +1,33 @@
 
 const fs = require("fs");
-const os = require('os');
 const GIFEncoder = require('gifencoder');
 const mergeImages = require('merge-images');
 const { Canvas, Image, createCanvas } = require('canvas');
+
+// este helper hace que si un frame no existe, se busque el anterior.
+// esto es util en caso de frames repetidos
+function getImageFile(part, seed, frame) {
+  let file = `assets/${part}/${seed}/Frame${frame}.png`;
+  
+  while(!fs.existsSync(file)) {
+    if(frame === 1) {
+      return file;
+    }
+    frame--;
+    file = `assets/${part}/${seed}/Frame${frame}.png`;
+  }
+  return file;
+}
 
 async function genFrames() {
   const framesPromises = [];
   for(let i = 1; i <= 16; i++) {
     framesPromises.push(mergeImages([
-      { src: `assets/Extremidades/1/Frame${i}.png`, x: 0, y: 0 },
-      { src: `assets/Body/1/Frame${i}.png`, x: 0, y: 0 },
-      { src: `assets/Pantalla/1/Frame${i}.png`, x: 0, y: 0 },
-      { src: `assets/Faces/1/Frame${i}.png`, x: 0, y: 0 },
-      { src: `assets/Botonera/1/Frame${i}.png`, x: 0, y: 0 },
+      { src: getImageFile('Extremidades', 1, i), x: 0, y: 0 },
+      { src: getImageFile('Body', 1, i), x: 0, y: 0 },
+      { src: getImageFile('Pantalla', 1, i), x: 0, y: 0 },
+      { src: getImageFile('Faces', 1, i), x: 0, y: 0 },
+      { src: getImageFile('Botonera', 1, i), x: 0, y: 0 },
     ], { Canvas, Image, quality: 1, width:64, height:64 }));
   }
 
