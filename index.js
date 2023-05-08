@@ -23,15 +23,20 @@ function getImageFile(part, seed, frame) {
   return file;
 }
 
-async function genFrames() {
+async function genFrames({
+  arms,
+  body,
+  screen,
+  buttons,
+}) {
   const framesPromises = [];
   for(let i = 1; i <= 16; i++) {
    
     framesPromises.push(mergeImages([
-      { src: getImageFile('Extremidades', 1, i), x: 0, y: 0 },
-      { src: getImageFile('Cuerpo', 1, i), x: 0, y: 0 },
-      { src: getImageFile('Pantalla', 1, i), x: 0, y: 0 },
-      { src: getImageFile('Botonera', 1, i), x: 0, y: 0 },
+      { src: getImageFile('Extremidades', arms, i), x: 0, y: 0 },
+      { src: getImageFile('Cuerpo', body, i), x: 0, y: 0 },
+      { src: getImageFile('Pantalla', screen, i), x: 0, y: 0 },
+      { src: getImageFile('Botonera', buttons, i), x: 0, y: 0 },
     ], { Canvas, Image, quality: 1, width:64, height:64 }));
   }
 
@@ -40,7 +45,7 @@ async function genFrames() {
   //const buffer = Buffer.from(stringB64.replace(/^data:image\/png;base64,/, ""), 'base64');
 }
 
-async function genImage() {
+async function genImage(genSeed) {
   const encoder = new GIFEncoder(64, 64);
   // stream the results as they are available into myanimated.gif
   encoder.createReadStream().pipe(fs.createWriteStream('myanimated.gif'));
@@ -52,7 +57,7 @@ async function genImage() {
 
   const canvas = createCanvas(64, 64);
 
-  frames = await genFrames();
+  frames = await genFrames(genSeed);
   frames.forEach((frame) => {
     const ctx = canvas.getContext('2d');
 
@@ -68,4 +73,11 @@ async function genImage() {
   encoder.finish();
 }
 
-genImage();
+let genSeed = {
+  arms: 1,
+  body: 1,
+  screen: 1,
+  buttons: 1
+};
+
+genImage(genSeed);
