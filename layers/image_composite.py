@@ -14,9 +14,10 @@ ignore = ['image_composite.py', 'results']
 
 groups = []
 optional_addons = None  # variable para almacenar la ruta a los addons
+screen_group_index = None  # variable para almacenar el índice del grupo de pantalla
 
 # Recorrer cada carpeta principal
-for group_dir in sorted(os.listdir(root_dir)):
+for group_index, group_dir in enumerate(sorted(os.listdir(root_dir))):
     if group_dir in ignore:
         continue
 
@@ -26,6 +27,10 @@ for group_dir in sorted(os.listdir(root_dir)):
     if group_dir == "05 - Addons":
         optional_addons = [os.path.join(group_path, subgroup_dir) for subgroup_dir in os.listdir(group_path)]
         continue
+
+    # Almacenar el índice del grupo de pantalla para usarlo más tarde
+    if group_dir == "04 - Screen":
+        screen_group_index = group_index
 
     # Asegurarse de que es una carpeta y no un archivo
     if os.path.isdir(group_path):
@@ -50,13 +55,13 @@ for idx, combination in enumerate(combinations):
     
     # Decidir aleatoriamente si incluir los addons en este gif
     include_addons = random.choice([True, False])
-    if include_addons and optional_addons is not None:
+    if include_addons and optional_addons is not None and 'classic' in combination[screen_group_index]:
         addons_path = random.choice(optional_addons)
         combination = list(combination) + [addons_path]
 
     for i in range(1, 17):  # Recorre los 16 frames
         # Crear una nueva imagen base completamente opaca para cada frame con el color aleatorio
-        base_image = Image.new('RGBA', (64, 64), bg_color)
+        base_image = Image.new('RGBA', (64*4, 64*4), bg_color)
 
         for subgroup in combination:
             frame_file = os.path.join(subgroup, f"Frame{i}.png")
