@@ -44,8 +44,8 @@ for group_index, group_dir in enumerate(sorted(os.listdir(root_dir))):
 # Obtener todas las combinaciones posibles de subgrupos
 combinations = list(product(*groups))
 
-# Limitar a 100 combinaciones
-combinations = combinations[:100]
+# Limitar a X combinaciones
+combinations = combinations[:1000]
 
 for idx, combination in enumerate(combinations):
     gif_frames = []
