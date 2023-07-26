@@ -10,7 +10,7 @@ frames_dir = "./results"  # directorio de salida
 os.makedirs(frames_dir, exist_ok=True)
 
 # Lista de nombres de archivos y directorios para ignorar
-ignore = ['image_composite.py', 'results']
+ignore = ['image_composite.py', 'results', 'node_modules', 'index.js', 'package.json','pnpm-lock.yaml']
 
 groups = []
 optional_addons = None  # variable para almacenar la ruta a los addons
