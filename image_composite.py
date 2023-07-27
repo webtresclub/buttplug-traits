@@ -2,15 +2,12 @@ import os
 import random
 import imageio
 import numpy as np
-from PIL import Image, ImageDraw
+from PIL import Image
 from itertools import product
 
-root_dir = "."  # directorio donde están las capas
-frames_dir = "../buttplugs"  # directorio de salida
+root_dir = "./layers"  # directorio donde están las capas
+frames_dir = "./buttplugs"  # directorio de salida
 os.makedirs(frames_dir, exist_ok=True)
-
-# Lista de nombres de archivos y directorios para ignorar
-ignore = ['image_composite.py']
 
 groups = []
 optional_addons = None  # variable para almacenar la ruta a los addons
@@ -21,8 +18,6 @@ bg_colors = [(230, 150, 150, 255), (230, 230, 150, 255), (150, 150, 230, 255)]  
 
 # Recorrer cada carpeta principal
 for group_index, group_dir in enumerate(sorted(os.listdir(root_dir))):
-    if group_dir in ignore:
-        continue
 
     group_path = os.path.join(root_dir, group_dir)
     
@@ -78,4 +73,4 @@ for idx, combination in enumerate(combinations):
         gif_frames.append(numpy_image)
 
     # Crea el GIF a partir de los frames
-    imageio.mimsave(os.path.join(frames_dir, f'output_{idx}.gif'), gif_frames, duration=0.1, loop=0)
+    imageio.mimsave(os.path.join(frames_dir, f'{idx}.gif'), gif_frames, duration=0.1, loop=0)
