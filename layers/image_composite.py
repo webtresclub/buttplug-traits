@@ -16,6 +16,9 @@ groups = []
 optional_addons = None  # variable para almacenar la ruta a los addons
 screen_group_index = None  # variable para almacenar el índice del grupo de pantalla
 
+# Definir los colores de fondo desaturados
+bg_colors = [(230, 150, 150, 255), (230, 230, 150, 255), (150, 150, 230, 255)]  # more desaturated red, yellow, blue
+
 # Recorrer cada carpeta principal
 for group_index, group_dir in enumerate(sorted(os.listdir(root_dir))):
     if group_dir in ignore:
@@ -45,13 +48,13 @@ for group_index, group_dir in enumerate(sorted(os.listdir(root_dir))):
 combinations = list(product(*groups))
 
 # Limitar a X combinaciones
-combinations = combinations[:1000]
+# combinations = combinations[:1000]
 
 for idx, combination in enumerate(combinations):
     gif_frames = []
     
-    # Crear un nuevo color de fondo aleatorio para cada GIF
-    bg_color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255), 255)
+    # Seleccionar un color de fondo aleatorio para cada GIF
+    bg_color = random.choice(bg_colors)
     
     # Decidir aleatoriamente si incluir los addons en este gif
     include_addons = random.choice([True, False])
