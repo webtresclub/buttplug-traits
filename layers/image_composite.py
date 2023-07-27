@@ -2,15 +2,15 @@ import os
 import random
 import imageio
 import numpy as np
-from PIL import Image
+from PIL import Image, ImageDraw
 from itertools import product
 
 root_dir = "."  # directorio donde están las capas
-frames_dir = "./results"  # directorio de salida
+frames_dir = "../buttplugs"  # directorio de salida
 os.makedirs(frames_dir, exist_ok=True)
 
 # Lista de nombres de archivos y directorios para ignorar
-ignore = ['image_composite.py', 'results', 'node_modules', 'index.js', 'package.json','pnpm-lock.yaml']
+ignore = ['image_composite.py']
 
 groups = []
 optional_addons = None  # variable para almacenar la ruta a los addons
