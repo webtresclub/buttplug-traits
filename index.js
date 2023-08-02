@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
             res.send('Unable to scan directory: ' + err);
         } 
 
-        let imgList = files.map(file => `<img src="./buttplugs/${file}" style="height: 200px; margin: 10px;">`).join('');
+        let imgList = files.map(file => `<img src="./buttplugs/${file}" style="height: 200px;">`).join('');
 
         res.send(`
             <html>

@@ -59,7 +59,7 @@ for idx, combination in enumerate(combinations):
 
     for i in range(1, 17):  # Recorre los 16 frames
         # Crear una nueva imagen base completamente opaca para cada frame con el color aleatorio
-        base_image = Image.new('RGBA', (64*4, 64*4), bg_color)
+        base_image = Image.new('RGBA', (69*4, 69*4), bg_color)
 
         for subgroup in combination:
             frame_file = os.path.join(subgroup, f"Frame{i}.png")
