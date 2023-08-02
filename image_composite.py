@@ -42,6 +42,8 @@ for group_index, group_dir in enumerate(sorted(os.listdir(root_dir))):
 # Obtener todas las combinaciones posibles de subgrupos
 combinations = list(product(*groups))
 
+combination = random.shuffle(combinations)
+
 # Limitar a X combinaciones
 # combinations = combinations[:1000]
 
@@ -53,7 +55,11 @@ for idx, combination in enumerate(combinations):
     
     # Decidir aleatoriamente si incluir los addons en este gif
     include_addons = random.choice([True, False])
-    if include_addons and optional_addons is not None and 'classic' in combination[screen_group_index]:
+
+    # Comprueba si alguna de las caras se llama "laser"
+    has_laser_face = any("laser" in face for face in combination)
+
+    if include_addons and optional_addons is not None and not has_laser_face:
         addons_path = random.choice(optional_addons)
         combination = list(combination) + [addons_path]
 
