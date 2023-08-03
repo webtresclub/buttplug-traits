@@ -14,7 +14,7 @@ optional_addons = None  # variable para almacenar la ruta a los addons
 screen_group_index = None  # variable para almacenar el índice del grupo de pantalla
 
 # Definir los colores de fondo desaturados
-bg_colors = [(230, 150, 150, 255), (230, 230, 150, 255), (150, 150, 230, 255)]  # more desaturated red, yellow, blue
+bg_colors = [(230, 150, 150, 255), (230, 230, 150, 255), (150, 150, 230, 255), (220, 140, 200, 255)]  # more desaturated red, yellow, blue
 
 # Recorrer cada carpeta principal
 for group_index, group_dir in enumerate(sorted(os.listdir(root_dir))):
@@ -45,14 +45,18 @@ combinations = list(product(*groups))
 combination = random.shuffle(combinations)
 
 # Limitar a X combinaciones
-# combinations = combinations[:1000]
+combinations = combinations[:1024]
+
+# Load the gradient image
+gradient_image_path = os.path.join(root_dir, "Gradient.png")
+gradient_image = Image.open(gradient_image_path).convert('RGBA')
 
 for idx, combination in enumerate(combinations):
     gif_frames = []
     
     # Seleccionar un color de fondo aleatorio para cada GIF
     bg_color = random.choice(bg_colors)
-    
+
     # Decidir aleatoriamente si incluir los addons en este gif
     include_addons = random.choice([True, False])
 
@@ -63,20 +67,23 @@ for idx, combination in enumerate(combinations):
         addons_path = random.choice(optional_addons)
         combination = list(combination) + [addons_path]
 
-    for i in range(1, 17):  # Recorre los 16 frames
-        # Crear una nueva imagen base completamente opaca para cada frame con el color aleatorio
+    for i in range(1, 17):
+        # Create a new image base with the background color
         base_image = Image.new('RGBA', (69*4, 69*4), bg_color)
+
+        # Superimpose the gradient image over the base image
+        base_image = Image.alpha_composite(base_image, gradient_image)
 
         for subgroup in combination:
             frame_file = os.path.join(subgroup, f"Frame{i}.png")
             if os.path.isfile(frame_file):
-                # Abre la imagen y la convierte en un objeto Image de PIL
-                new_layer = Image.open(frame_file)
+                # Open the image and convert it to a PIL Image object
+                new_layer = Image.open(frame_file).convert('RGBA')
                 base_image = Image.alpha_composite(base_image, new_layer)
 
-        # Convertir el objeto Image de PIL en una matriz numpy para usarlo con imageio
+        # Convert the PIL Image object into a numpy array for use with imageio
         numpy_image = np.array(base_image)
         gif_frames.append(numpy_image)
 
-    # Crea el GIF a partir de los frames
+    # Create the GIF from the frames
     imageio.mimsave(os.path.join(frames_dir, f'{idx}.gif'), gif_frames, duration=0.1, loop=0)
