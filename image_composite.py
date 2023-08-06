@@ -88,4 +88,4 @@ for idx, combination in enumerate(combinations):
         gif_frames.append(numpy_image)
 
     # Create the GIF from the frames
-    imageio.mimsave(os.path.join(frames_dir, f'{idx}.gif'), gif_frames, duration=0.1, loop=0)
+    imageio.mimsave(os.path.join(frames_dir, f'{idx+1}.gif'), gif_frames, duration=0.1, loop=0)
