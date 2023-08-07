@@ -1,0 +1,23 @@
+{
+  "description": "In a futuristic world where technology thrived, there was a remarkable robot called Oscio. Oscio was not like any other ordinary robot; it possessed a unique combination of traits that made it stand out from the rest. With a sleek and sturdy beer box-shaped body, Oscio had the ability to store and dispense refreshing beverages, making it a favorite among humans and robots alike.\n\nBut Oscio's uniqueness did not stop there. Instead of traditional control buttons, Oscio had retrofitted NES gamepad buttons on its front panel. This clever addition not only allowed it to be controlled with ease, but it also added a nostalgic touch for those who appreciated the vintage gaming era.\n\nTo complement its soldier-like resilience, Oscio had arms and legs that were designed with military precision. They were built to endure challenging terrains and perform complex tasks, making Oscio a valuable asset in various industries. This versatile robot could be found assisting in construction sites, search and rescue missions, and even military operations.\n\nHowever, despite its robust exterior and practical functions, there was a surprising contrast to Oscio's otherwise serious demeanor. Displayed upon its screen was a whimsical image of a mischievous cat. This unexpected trait brought a sense of playfulness to Oscio's presence,",
+  "external_url": "https://huffplug.com",
+  "image": "[placeholder]1.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "beer"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "nes"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    }
+  ]
+}
