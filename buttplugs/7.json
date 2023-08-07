@@ -1,0 +1,27 @@
+{
+  "description": "In the bustling world of WebtrES, where robots and humans coexist, there was a unique oscilloscope-themed robot named Oscy. Oscy stood out from the crowd with its vibrant appearance. Its box was adorned with a shiny yellow color, catching the light and captivating the attention of onlookers.\n\nBut what truly set Oscy apart were its intriguing traits. Instead of having regular buttons, Oscy had buttons shaped like adorable cats.",
+  "external_url": "https://huffplug.com",
+  "image": "[placeholder]7.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ]
+}

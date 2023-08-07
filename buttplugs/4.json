@@ -1,0 +1,23 @@
+{
+  "description": "Once upon a time, in the vibrant world of WebtrES, there existed a unique and fascinating robot named Flicker. Flicker, a proud member of the WebtrES club, had a captivating background story that set it apart from the others.\n\nFlicker was designed with an oscilloscope theme, sporting a sleek and eye-catching orange box as its main body. This vibrant color gave Flicker a sense of energy and enthusiasm that radiated from its very core.",
+  "external_url": "https://huffplug.com",
+  "image": "[placeholder]4.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    }
+  ]
+}

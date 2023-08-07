@@ -49,7 +49,7 @@ combinations = list(product(*groups))
 combination = random.shuffle(combinations)
 
 # Limitar a X combinaciones
-combinations = combinations[:1]
+combinations = combinations[:1024]
 
 # Load the gradient image
 gradient_image_path = os.path.join(root_dir, "Gradient.png")
@@ -71,7 +71,7 @@ def generate_background_story(properties):
             messages=[
                 {
                     "role": "system",
-                    "content": "Generate a background story with this NFT traits, it is osciloscope themed robot."
+                    "content": "Generate a background story with this NFT traits, it is an osciloscope themed robot who is part of WebtrES club."
                 },
                 {
                     "role": "user",
@@ -79,7 +79,7 @@ def generate_background_story(properties):
                 }
             ],
             temperature=0.8,
-            max_tokens=256,
+            max_tokens=100,
             top_p=1,
             frequency_penalty=0,
             presence_penalty=0
@@ -88,6 +88,10 @@ def generate_background_story(properties):
         # Extract the generated text from the response
         generated_text = response.choices[0].message.content
 
+        last_full_stop_index = generated_text.rfind('.')
+        if last_full_stop_index != -1:
+            generated_text = generated_text[:last_full_stop_index + 1]
+
         return generated_text
 
     except Exception as e:
@@ -95,7 +99,7 @@ def generate_background_story(properties):
         return ""  # Return an empty string in case of error
 
 
-def generate_properties(combination, idx, include_addons):
+def generate_properties(combination, idx):
     # Define the properties for the GIF based on the combination of subgroups
     properties = {
         "description": "Webtres community NFTs.",
@@ -115,12 +119,6 @@ def generate_properties(combination, idx, include_addons):
             "value": trait_value
         })
 
-    if include_addons:
-        properties["attributes"].append({
-            "trait_type": "addon",
-            "value": "soldier"
-        })
-
     return properties
 
 
@@ -138,8 +136,15 @@ for idx, combination in enumerate(combinations):
     # Decidir aleatoriamente si incluir los addons en este gif
     include_addons = random.choice([True, False])
 
+    # Comprueba si alguna de las caras se llama "laser"
+    has_laser_face = any("laser" in face for face in combination)
+
+    if include_addons and optional_addons is not None and not has_laser_face:
+        addons_path = random.choice(optional_addons)
+        combination = list(combination) + [addons_path]
+
     # Generate properties for the current combination
-    properties = generate_properties(combination, idx, include_addons)
+    properties = generate_properties(combination, idx)
 
     # Generate the background story based on the properties
     background_story = generate_background_story(properties)
@@ -148,13 +153,6 @@ for idx, combination in enumerate(combinations):
     # Save the properties to a JSON file
     with open(os.path.join(frames_dir, f'{idx+1}.json'), 'w') as json_file:
         json.dump(properties, json_file, indent=2)
-
-    # Comprueba si alguna de las caras se llama "laser"
-    has_laser_face = any("laser" in face for face in combination)
-
-    if include_addons and optional_addons is not None and not has_laser_face:
-        addons_path = random.choice(optional_addons)
-        combination = list(combination) + [addons_path]
 
     for i in range(1, 17):
         # Create a new image base with the background color

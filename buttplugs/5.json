@@ -1,0 +1,23 @@
+{
+  "description": "In the bustling city of Cyberspace, where technology thrived, there was a unique club known as WebtrES. It was a place where robots of all kinds gathered to share their love for vintage electronics and retro gaming. Amongst the club's esteemed members was a remarkable robot named Oscilla.\n\nOscilla was a truly one-of-a-kind creation, with a shiny yellow box as its outer shell.",
+  "external_url": "https://huffplug.com",
+  "image": "[placeholder]5.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ]
+}

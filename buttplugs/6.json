@@ -1,0 +1,23 @@
+{
+  "description": "In the futuristic world of technology and robotics, there existed an extraordinary club known as WebtrES. This exclusive club was comprised of remarkable robots with unique abilities and characteristics. Among them was Oscibot, a remarkable oscilloscope-themed robot who stood out with its distinctive traits.\n\nOscibot was adorned in a sleek and shiny black box, giving it an air of sophistication and elegance. Its polished surface reflected the surrounding environment, making it appear almost ethereal.",
+  "external_url": "https://huffplug.com",
+  "image": "[placeholder]6.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ]
+}
