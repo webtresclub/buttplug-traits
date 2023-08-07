@@ -13,9 +13,6 @@ groups = []
 optional_addons = None  # variable para almacenar la ruta a los addons
 screen_group_index = None  # variable para almacenar el índice del grupo de pantalla
 
-# Definir los colores de fondo desaturados
-bg_colors = [(230, 150, 150, 255), (230, 230, 150, 255), (150, 150, 230, 255), (220, 140, 200, 255)]  # more desaturated red, yellow, blue
-
 # Recorrer cada carpeta principal
 for group_index, group_dir in enumerate(sorted(os.listdir(root_dir))):
 
@@ -55,7 +52,12 @@ for idx, combination in enumerate(combinations):
     gif_frames = []
     
     # Seleccionar un color de fondo aleatorio para cada GIF
-    bg_color = random.choice(bg_colors)
+    bg_color = (
+        random.randint(150, 240),
+        random.randint(150, 240),
+        random.randint(150, 240),
+        255  # Canal alfa siempre con valor 255 para ser completamente opaco
+    )
 
     # Decidir aleatoriamente si incluir los addons en este gif
     include_addons = random.choice([True, False])
@@ -86,4 +88,4 @@ for idx, combination in enumerate(combinations):
         gif_frames.append(numpy_image)
 
     # Create the GIF from the frames
-    imageio.mimsave(os.path.join(frames_dir, f'{idx}.gif'), gif_frames, duration=0.1, loop=0)
+    imageio.mimsave(os.path.join(frames_dir, f'{idx+1}.gif'), gif_frames, duration=0.1, loop=0)
