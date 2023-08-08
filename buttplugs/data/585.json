@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/585.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ]
+}

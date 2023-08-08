@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/1018.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "classic"
+    }
+  ]
+}

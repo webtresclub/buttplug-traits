@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "ipfs://bafybeibnw2yuc7tpkt4pkzx3c2yizyjx24vioehwqodxppbqoyncyi4t44/280.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ]
+}
