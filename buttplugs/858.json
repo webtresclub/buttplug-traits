@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "image": "[placeholder]/858.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ]
+}

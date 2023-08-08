@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "[placeholder]/403.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "image": "[placeholder]/648.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ]
+}

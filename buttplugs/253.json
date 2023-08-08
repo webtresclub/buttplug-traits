@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "image": "[placeholder]/253.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "rossoCorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ]
+}

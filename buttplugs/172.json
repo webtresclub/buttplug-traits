@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "[placeholder]/172.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    }
+  ]
+}

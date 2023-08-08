@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "[placeholder]/683.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "handDown"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "classic"
+    }
+  ]
+}

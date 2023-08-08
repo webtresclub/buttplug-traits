@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "[placeholder]/701.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ]
+}

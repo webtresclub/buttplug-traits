@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "image": "[placeholder]/537.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyYellow"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "redBlack"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ]
+}

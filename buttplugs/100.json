@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "image": "[placeholder]/100.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "glasses"
+    }
+  ]
+}
