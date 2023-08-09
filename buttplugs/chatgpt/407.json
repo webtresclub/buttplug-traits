@@ -1,0 +1,20 @@
+{
+  "name": "Rocket Cat",
+  "description": "Rocket Cat is an oscilloscope-themed robot with rocket arms and legs. Its screen displays a mesmerizing combination of red and black. Rocket Cat is a proud member of the WebtrES club, where it showcases its exceptional abilities and skills.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": [
+    "Rocket Science",
+    "Web Programming",
+    "Electronics",
+    "Troubleshooting"
+  ],
+  "alignment": "Neutral"
+}

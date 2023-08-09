@@ -1,0 +1,20 @@
+{
+  "name": "Retrobot",
+  "description": "Retrobot is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its classic box design, soldier-like arms and legs, and a screen that displays a fun game of snake, Retrobot stands out as a unique and nostalgic creation. Its add-on shades give it a cool and stylish appearance. Retrobot has been programmed with a mix of retro gaming knowledge and coding expertise, making it an excellent companion for any tech enthusiast. Whether it's debugging code or challenging you to a game of snake, Retrobot is always ready for an adventure in the digital world.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": [
+    "Coding",
+    "Retro gaming",
+    "Problem-solving",
+    "Game development"
+  ],
+  "alignment": "Neutral Good"
+}

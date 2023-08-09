@@ -1,0 +1,15 @@
+{
+  "name": "Voltbox",
+  "description": "Voltbox is a soldier-themed oscilloscope robot with a classic design. It has sturdy soldier-like arms and legs, equipped with a screen that displays information in a classic style. To add a touch of style, it also features sleek shades as an accessory.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 3,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 6,
+    "strength": 7,
+    "wisdom": 4
+  },
+  "skills": ["Combat Tactics", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

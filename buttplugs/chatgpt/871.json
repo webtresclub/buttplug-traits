@@ -1,0 +1,15 @@
+{
+  "name": "Rusty",
+  "description": "Rusty is an oscilloscope-themed robot who is part of the WebtrES club. With its vibrant rossoCorsa red box and classic arms and legs, Rusty stands out in any crowd. Its classic screen displays data with precision and clarity, while its stylish shades add a touch of coolness to its appearance. Rusty excels in its soldier role, possessing a strong sense of duty and determination. Despite its worn-out exterior, Rusty is resilient and reliable, making it an invaluable member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 6
+  },
+  "skills": ["Analytical Thinking", "Problem Solving", "Data Analysis"],
+  "alignment": "Lawful Good"
+}

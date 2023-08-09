@@ -1,0 +1,15 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is a vintage oscilloscope-themed robot with classic box and arms/legs. Its screen is unfortunately broken, but that hasn't stopped Circuit from becoming an integral member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 5,
+    "charisma": 3,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Problem Solving"],
+  "alignment": "Neutral Good"
+}

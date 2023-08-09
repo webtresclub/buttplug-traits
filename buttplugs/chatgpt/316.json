@@ -1,0 +1,15 @@
+{
+  "name": "Sparky",
+  "description": "Sparky is a shiny yellow oscilloscope-themed robot with classic buttons and arms and legs. However, its screen is unfortunately broken, giving it a unique appearance. Sparky is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": ["Technical Analysis", "Data Visualization", "Troubleshooting"],
+  "alignment": "Neutral"
+}

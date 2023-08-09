@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a shiny yellow oscilloscope-themed robot with classic buttons and a soldier-like appearance. Despite having a broken screen, Volt is a valued member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 3,
+    "constitution": 7,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

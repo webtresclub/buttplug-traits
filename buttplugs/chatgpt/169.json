@@ -1,0 +1,20 @@
+{
+  "name": "Scouttron",
+  "description": "Scouttron is an oscilloscope-themed robot who is part of the WebtrES club. With its classic box design, soldier buttons, cat-like arms and legs, and a laser screen, Scouttron is a unique and versatile member of the club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": {
+    "programming": 7,
+    "electronics": 8,
+    "analysis": 9,
+    "agility": 6
+  },
+  "alignment": "Lawful Neutral"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Catbox the Oscilloscope",
+  "description": "Catbox is an oscilloscope themed robot with an orange box body, soldier buttons, cat arms and legs, and a snake-shaped screen. This unique combination of traits gives Catbox a distinctive appearance and sets it apart from other robots in the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 3,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Analytical Thinking",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

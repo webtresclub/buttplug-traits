@@ -1,0 +1,15 @@
+{
+  "name": "Spectra",
+  "description": "Spectra is an oscilloscope-themed robot who is part of the WebtrES club. With a classic box design and sturdy foundry arms and legs, Spectra is equipped with advanced laser technology for its screen. It combines the functionality of a soldier with the precision and intricacy of an oscilloscope, making it a formidable and versatile member of the club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

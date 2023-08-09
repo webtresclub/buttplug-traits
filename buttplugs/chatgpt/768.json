@@ -1,0 +1,15 @@
+{
+  "name": "RetroBot",
+  "description": "RetroBot is a vintage-inspired oscilloscope-themed robot, equipped with classic box-shaped body and buttons. It has charming arms and legs that resemble those of traditional robots. Its prominent feature is the snake-themed screen that displays intricate waveforms and patterns. As a stylish addition, RetroBot wears trendy shades that give it a cool and mysterious appearance.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 8,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Data Analysis"],
+  "alignment": "Neutral Good"
+}

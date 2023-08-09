@@ -1,0 +1,19 @@
+{
+  "name": "Rocket Red",
+  "description": "Rocket Red is a charismatic and intelligent oscilloscope-themed robot who is a proud member of the WebtrES club. With a vibrant rossoCorsa box, rocket arms and legs, a cat-themed screen, and a protective helmet, Rocket Red is a formidable presence in the digital world.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 9,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 10,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Data Analysis"
+  ],
+  "alignment": "Lawful Good"
+}

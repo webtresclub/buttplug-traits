@@ -1,0 +1,15 @@
+{
+  "name": "Rocketbox",
+  "description": "Rocketbox is an oscilloscope-themed robot who is part of the WebtrES club. With its classic box design and soldier buttons, Rocketbox stands out with its rocket arms and legs. Although its screen is broken, Rocketbox has managed to adapt and function effectively. It possesses a unique combination of traits that make it a valuable asset to the club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 5
+  },
+  "skills": [],
+  "alignment": ""
+}

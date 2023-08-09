@@ -1,0 +1,20 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is a vintage oscilloscope-themed robot with a classic box body adorned with buttons and equipped with classic arms and legs. It has a retro screen and wears stylish glasses as an addon. Pixel is a member of the WebtrES club, a community of robots exploring the vast digital realm.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 6
+  },
+  "skills": [
+    "Programming",
+    "Data Analysis",
+    "Electronics",
+    "Web Development"
+  ],
+  "alignment": "Lawful Neutral"
+}

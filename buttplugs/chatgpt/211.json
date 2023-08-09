@@ -1,0 +1,15 @@
+{
+  "name": "Laserbox",
+  "description": "Laserbox is a shiny black oscilloscope-themed robot with classic buttons and rocket arms and legs. Its screen is equipped with a powerful laser for precise measurements and analysis.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Volt",
+  "description": "Volt is a unique oscilloscope-themed robot belonging to the prestigious WebtrES club. With its cat-like box body, soldier buttons, hand-down arms and legs, and a laser screen, Volt stands out as a remarkable and powerful member of the club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 8
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Analytical Thinking",
+    "Problem Solving",
+    "Laser Precision"
+  ],
+  "alignment": "Lawful Good"
+}

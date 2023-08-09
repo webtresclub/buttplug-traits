@@ -1,0 +1,15 @@
+{
+  "name": "Sparky",
+  "description": "Sparky is an oscilloscope-themed robot with a shiny black box body, classic arms and legs, and a red and black screen. It has a pair of stylish glasses as an additional accessory. Sparky is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

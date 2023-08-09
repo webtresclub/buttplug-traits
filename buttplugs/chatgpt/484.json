@@ -1,0 +1,21 @@
+{
+  "name": "Rosso Corsa",
+  "description": "Rosso Corsa is a unique oscilloscope-themed robot with a classic design. Its vibrant red body, adorned with black accents, exudes a sense of elegance and sophistication. Equipped with hand-down arms and legs, Rosso Corsa is capable of precise and intricate movements.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": [
+    "Precision Engineering",
+    "Data Analysis",
+    "Electronic Circuitry",
+    "Programming",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

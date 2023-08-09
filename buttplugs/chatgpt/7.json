@@ -1,0 +1,20 @@
+{
+  "name": "Wattson",
+  "description": "Wattson is a charismatic and intelligent oscilloscope-themed robot who is a proud member of the WebtrES club. With its classic box and buttons design, and hand-down arms and legs, Wattson is a combination of nostalgia and modern technology. Its screen, featuring the iconic game of Snake, adds a playful touch to its appearance.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 8,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Problem-solving",
+    "Electronics",
+    "Communication"
+  ],
+  "alignment": "Lawful Good"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "RetroCat",
+  "description": "RetroCat is a vintage oscilloscope-themed robot with a charming personality and a passion for classic gaming. With its vibrant red body, reminiscent of the iconic color 'rossoCorsa', and retroConsole buttons, RetroCat embodies the nostalgic essence of old-school gaming consoles. Its arms and legs are inspired by the agility and playfulness of cats, allowing it to move with grace and precision. The classic screen displays mesmerizing waveforms, while the glasses add a touch of intellectual sophistication. RetroCat is a proud member of the WebtrES club, where it uses its oscilloscope abilities to analyze and optimize web transactions.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 9,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Gaming", "Web Transaction Analysis", "Agility"],
+  "alignment": "True Neutral"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Bolt",
+  "description": "Bolt is a retro-inspired oscilloscope-themed robot with a classic box body, equipped with retroConsole buttons, foundry arms and legs, and a laser screen.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Data Analysis"
+  ],
+  "alignment": "Lawful Good"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Oscilla",
+  "description": "Oscilla is an oscilloscope themed robot with vibrant orange box and a classic screen. Its soldier buttons provide precision and control, while its cat-like arms and legs offer agility and flexibility. Oscilla is equipped with an addon helmet for enhanced protection and functionality. It is a proud member of the WebtrES club, which focuses on exploring the vast possibilities of the digital realm.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 9,
+    "intelligence": 6,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Neutral Good"
+}

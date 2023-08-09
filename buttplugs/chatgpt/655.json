@@ -1,0 +1,15 @@
+{
+  "name": "Voltrex",
+  "description": "Voltrex is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its vibrant orange box, retroConsole buttons, rocket arms and legs, and a screen filled with the classic game Snake, Voltrex is a fusion of nostalgia and cutting-edge technology.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Game Design"],
+  "alignment": "Lawful Neutral"
+}

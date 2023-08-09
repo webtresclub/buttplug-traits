@@ -1,0 +1,15 @@
+{
+  "name": "Catalyst",
+  "description": "Catalyst is a shiny black oscilloscope-themed robot with soldier-like arms and legs. Its screen displays a mesmerizing snake pattern, while its eyes are enhanced with a pair of sleek glasses. Catalyst is a proud member of the WebtrES club, an exclusive group of technologically advanced robots.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 8
+  },
+  "skills": ["Programming", "Electronics", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

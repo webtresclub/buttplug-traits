@@ -1,0 +1,15 @@
+{
+  "name": "Rocket Blaze",
+  "description": "Rocket Blaze is an oscilloscope-themed robot belonging to the WebtrES Club. With its vibrant orange box and cat-shaped buttons, Rocket Blaze stands out among its robot peers. Its arms and legs are equipped with rockets, allowing it to move swiftly and navigate any terrain with ease. The screen on its front displays a mesmerizing snake graphic, captivating onlookers with its fluid motion. Rocket Blaze also sports a sleek helmet as an added accessory, giving it a futuristic and adventurous appearance.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 9,
+    "intelligence": 7,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Rocket Propulsion", "Data Analysis", "User Interface Design"],
+  "alignment": "Neutral Good"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "OsciCat",
+  "description": "OsciCat is an oscilloscope-themed robot with a feline twist. Its box-like body resembles a cat, complete with adorable cat buttons for eyes and a screen on its belly. Its arms and legs are also cat-shaped, adding to its charming appearance. OsciCat is a proud member of the WebtrES club, utilizing its unique design and functionality to contribute to the club's projects and activities.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 5,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 2,
+    "wisdom": 6
+  },
+  "skills": ["Electronics", "Programming", "Data Analysis"],
+  "alignment": "Neutral Good"
+}

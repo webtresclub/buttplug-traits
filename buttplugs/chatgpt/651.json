@@ -1,0 +1,20 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is a unique oscilloscope-themed robot with a forest green box and retro console buttons. It has cat-like arms and legs, with a red and black screen. Additionally, Pixel is equipped with stylish glasses as an addon.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 8
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Troubleshooting",
+    "Data Analysis"
+  ],
+  "alignment": "Lawful Neutral"
+}

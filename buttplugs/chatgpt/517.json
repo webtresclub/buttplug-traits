@@ -1,0 +1,15 @@
+{
+  "name": "Circuit Breaker",
+  "description": "Circuit Breaker is an oscilloscope themed robot who is part of the WebtrES club. With a broken screen and a helmet add-on, this soldier-like robot is ready to serve.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 3,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 7,
+    "wisdom": 4
+  },
+  "skills": ["Programming", "Electronics", "Analyzing Signals"],
+  "alignment": "Neutral"
+}

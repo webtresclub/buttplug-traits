@@ -1,0 +1,15 @@
+{
+  "name": "Rocket-X",
+  "description": "Rocket-X is an oscilloscope-themed robot and a proud member of the WebtrES club. With its shiny black box, retro console buttons, rocket arms and legs, red and black screen, and a stylish helmet addon, Rocket-X is ready to explore the digital realm with its unique abilities.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Good"
+}

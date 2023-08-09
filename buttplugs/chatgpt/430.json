@@ -1,0 +1,15 @@
+{
+  "name": "Rocketcat",
+  "description": "Rocketcat is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its unique traits, it brings a blend of technology and feline charm to the group.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 7,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Rocket Science", "Cute Meows"],
+  "alignment": "Neutral Good"
+}

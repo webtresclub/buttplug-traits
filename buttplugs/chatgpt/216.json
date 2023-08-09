@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a shiny black oscilloscope-themed robot with retro console buttons, soldier-like arms and legs, and a classic screen. It is a member of the WebtrES club, a group of robots dedicated to exploring and preserving the history of the internet.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

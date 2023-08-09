@@ -1,0 +1,21 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is an oscilloscope-themed robot who is part of the WebtrES club. With its cat-like box body and classic buttons, it is a unique and charming member of the club. Its arms and legs are designed to resemble a cat, adding to its endearing appearance. The red and black screen gives it a distinct retro vibe.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 8,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Troubleshooting",
+    "Data Analysis",
+    "Web Development"
+  ],
+  "alignment": "Lawful Neutral"
+}

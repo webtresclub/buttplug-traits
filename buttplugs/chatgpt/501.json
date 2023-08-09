@@ -1,0 +1,15 @@
+{
+  "name": "Rockettron",
+  "description": "Rockettron is a highly advanced oscilloscope-themed robot belonging to the WebtrES club. With its vibrant orange box, cat-shaped buttons, and rocket-powered arms and legs, Rockettron stands out among its peers. Its screen, featuring a mesmerizing red and black display, showcases its exceptional capabilities and futuristic design.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

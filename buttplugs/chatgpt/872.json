@@ -1,0 +1,15 @@
+{
+  "name": "Boltron",
+  "description": "Boltron is a shinyYellow osciloscope-themed robot with classic arms and legs, equipped with a laser screen. As a member of the WebtrES club, Boltron is a skilled soldier, ready to analyze and interpret complex signals in the digital realm.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 8
+  },
+  "skills": ["Signal Analysis", "Data Interpretation", "Combat Tactics"],
+  "alignment": "Lawful Good"
+}

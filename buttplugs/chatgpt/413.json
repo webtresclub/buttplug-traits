@@ -1,0 +1,15 @@
+{
+  "name": "Circuitus",
+  "description": "Circuitus is an oscilloscope-themed robot who is an esteemed member of the WebtrES club. With its vibrant red exterior, named rossoCorsa, it stands out among its robotic peers. Its box-like structure represents stability and precision, while the soldier arms and legs showcase its strength and agility. The screen, in the form of a snake, symbolizes Circuitus' ability to analyze and interpret data with remarkable accuracy. This unique combination of traits makes Circuitus an invaluable asset to the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 8,
+    "wisdom": 7
+  },
+  "skills": ["Analytical Thinking", "Data Interpretation", "Technical Expertise"],
+  "alignment": "Lawful Neutral"
+}

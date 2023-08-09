@@ -1,0 +1,15 @@
+{
+  "name": "Spectra",
+  "description": "Spectra is an oscilloscope-themed robot with the ability to analyze and display electrical waveforms. Its box-shaped body resembles that of a soldier, while its arms and legs have a feline design. The screen, positioned on its chest, also features a cat-like appearance. Spectra is equipped with a pair of stylish glasses, enhancing its visual capabilities and giving it a touch of sophistication. It is a proud member of the WebtrES club, a community of technologically advanced robots.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 6
+  },
+  "skills": ["Electronics", "Data Analysis", "Visual Display"],
+  "alignment": "Neutral"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "LaserCAT",
+  "description": "LaserCAT is a unique oscilloscope-themed robot who is a proud member of the WebtrES Club. With its classic box and buttons design, LaserCAT stands out with its cat-like arms and legs. Its screen emits a powerful laser that can analyze and display intricate waveforms with precision. LaserCAT is a combination of vintage aesthetic and advanced technology, making it a beloved companion for any electronics enthusiast. ",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Electronics Analysis", "Web Development", "Precision Laser Control"],
+  "alignment": "Lawful Neutral"
+}

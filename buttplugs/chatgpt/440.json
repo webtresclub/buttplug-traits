@@ -1,0 +1,21 @@
+{
+  "name": "Cortex",
+  "description": "Cortex is an oscilloscope-themed robot that is part of the WebtrES club. With its vibrant orange box and soldier-like arms and legs, it is a unique and eye-catching member of the club. Its screen displays a mesmerizing pattern resembling a coiled snake, adding a touch of mystery to its appearance. Cortex is equipped with a protective helmet, which not only enhances its aesthetics but also serves as an additional feature. This robot has been specifically designed for combat situations, combining functionality with style. Its cat-shaped buttons add a playful touch, highlighting Cortex's versatile nature. As a member of the WebtrES club, Cortex is highly intelligent and possesses a wide array of skills, making it an invaluable asset to the team.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Combat Tactics",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

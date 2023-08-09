@@ -1,0 +1,15 @@
+{
+  "name": "Zapp",
+  "description": "Zapp is a shiny yellow oscilloscope-themed robot with the ability to display information on its screen. It has a soldier button interface and is equipped with cat-like arms and legs. Its screen and additional feature include a cat image and stylish shades.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

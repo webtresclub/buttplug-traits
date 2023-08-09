@@ -1,0 +1,15 @@
+{
+  "name": "LaserCat",
+  "description": "LaserCat is an oscilloscope-themed robot with the ability to generate laser beams from its screen. It is an esteemed member of the WebtrES club, known for its exceptional skills and charming personality.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 8,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Laser Beam Generation", "Data Analysis", "Web Design"],
+  "alignment": "Neutral Good"
+}

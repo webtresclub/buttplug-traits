@@ -1,0 +1,15 @@
+{
+  "name": "Circuit Breaker",
+  "description": "Circuit Breaker is a charming oscilloscope-themed robot who is a proud member of the WebtrES club. With its classic box body, soldier buttons, classic arms and legs, and a screen displaying a cute cat, Circuit Breaker stands out from the crowd. It even sports a pair of trendy shades as an add-on, giving it an extra touch of style.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Web Design"],
+  "alignment": "Neutral Good"
+}

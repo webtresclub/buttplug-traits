@@ -1,0 +1,15 @@
+{
+  "name": "RetroVolt",
+  "description": "RetroVolt is a charismatic oscilloscope-themed robot who is part of the WebtrES club. With its forest green box and cat-like arms and legs, it brings a unique retro console vibe to the club. Its screen displays a classic snake game, adding a touch of nostalgia. Completing its stylish look, RetroVolt is equipped with cool shades as an additional accessory.",
+  "ability_scores":{
+    "hp": 7,
+    "charisma": 9,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 7,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Gaming"],
+  "alignment": "Lawful Good"
+}

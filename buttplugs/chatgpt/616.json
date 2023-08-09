@@ -1,0 +1,15 @@
+{
+  "name": "Sparky",
+  "description": "Sparky is a unique oscilloscope-themed robot who is part of the WebtrES club. With its box-shaped body resembling a cat and its foundry arms and legs, Sparky is a fascinating blend of classic design and modern technology. Its screen displays a charming, vintage oscilloscope interface, adding a touch of nostalgia to its appearance.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

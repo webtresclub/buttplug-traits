@@ -1,0 +1,15 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is an oscilloscope-themed robot and a proud member of the WebtrES club. With its vibrant red body color, reminiscent of the iconic rossoCorsa, and retroConsole buttons, Retrotron brings a touch of nostalgia to the digital world. Its classic arms and legs allow for precise movements and flexibility, while the redBlack screen displays crisp and clear visual output. Retrotron is a unique fusion of vintage aesthetics and cutting-edge technology.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Good"
+}

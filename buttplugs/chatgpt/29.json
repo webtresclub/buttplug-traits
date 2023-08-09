@@ -1,0 +1,15 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is an oscilloscope-themed robot who is part of the WebtrES club. With its classic box design, soldier buttons, and cat-like arms and legs, Circuit is a unique and charming addition to the club. Its screen and arms and legs both resemble cats, giving it a playful and endearing personality.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral Good"
+}

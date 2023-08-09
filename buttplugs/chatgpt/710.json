@@ -1,0 +1,20 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is a sleek and stylish oscilloscope-themed robot with a classic cat-like design. With its box-shaped body, button controls, and laser screen, Pixel is a unique member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 5,
+    "charisma": 7,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 8
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Analytical Thinking",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

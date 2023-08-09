@@ -1,0 +1,15 @@
+{
+  "name": "Circuit Breaker",
+  "description": "Circuit Breaker is a shiny black oscilloscope-themed robot with classic arms and legs. Despite having a broken screen, it has been programmed to function as a skilled soldier. Circuit Breaker is a member of the WebtrES club, a group of robots dedicated to exploring the vast world of the internet and protecting it from threats.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 3,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 4
+  },
+  "skills": ["Combat Training", "Tactical Analysis", "Coding", "Electronics"],
+  "alignment": "Lawful Neutral"
+}

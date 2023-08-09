@@ -1,0 +1,15 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is a retro oscilloscope-themed robot with a broken screen. Its design is inspired by a classic console, with box-shaped body, cat-shaped buttons, and cat-like arms and legs. It also wears stylish shades as an addon. Pixel is a member of the WebtrES club, a community of robots exploring the vast world of the internet.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 3,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

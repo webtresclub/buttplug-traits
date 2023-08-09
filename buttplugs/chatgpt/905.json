@@ -1,0 +1,15 @@
+{
+  "name": "RetroCat",
+  "description": "RetroCat is an oscilloscope-themed robot who is part of the WebtrES club. With its vibrant orange box and retro console buttons, this robot brings a nostalgic touch to the digital realm. Its arms and legs resemble a playful cat, adding a touch of whimsy to its design. The classic screen displays waveforms and data with precision, while the helmet addon enhances its functionality and protection. RetroCat is a well-rounded robot with a balance of abilities and skills.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Data Analysis", "Electronics"],
+  "alignment": "Neutral"
+}

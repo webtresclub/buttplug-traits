@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a shiny oscilloscope-themed robot with vibrant yellow color. It has cat-shaped buttons, giving it a playful and charming appearance. Its arms and legs are also designed like cat paws, adding a touch of whimsy to its overall look. The screen of Volt is a classic display, reminiscent of retro oscilloscopes. As an extra feature, Volt is equipped with stylish shades, giving it a cool and fashionable edge. Volt is a proud member of the WebtrES club, showcasing its love for all things electronic and technological.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 8,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

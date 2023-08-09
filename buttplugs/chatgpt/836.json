@@ -1,0 +1,15 @@
+{
+  "name": "Cortex",
+  "description": "Cortex is a sophisticated oscilloscope-themed robot with a vibrant red body, known as rossoCorsa, adorned with classic style arms and legs. Its main screen is equipped with a powerful laser display, capable of rendering intricate waveforms and data visualizations. Cortex is a proud member of the WebtrES club, a distinguished collective of technologically advanced beings.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 8
+  },
+  "skills": ["Data Analysis", "Programming", "Electronics", "System Diagnostics"],
+  "alignment": "Lawful Neutral"
+}

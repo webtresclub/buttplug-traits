@@ -1,0 +1,15 @@
+{
+  "name": "Circuit Blast",
+  "description": "Circuit Blast is an oscilloscope-themed robot that is part of the WebtrES club. With a classic box frame, classic buttons, soldier arms and legs, a snake-like screen, and a helmet addon, Circuit Blast stands out as a unique and powerful member of the club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Elio",
+  "description": "Elio is a shiny black oscilloscope-themed robot with cat-shaped buttons, foundry arms and legs, a classic screen, and a helmet addon. Elio is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 8
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

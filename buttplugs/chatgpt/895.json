@@ -1,0 +1,20 @@
+{
+  "name": "RetroBlast",
+  "description": "RetroBlast is an oscilloscope-themed robot belonging to the WebtrES club. With its vintage console design, classic buttons, rocket arms and legs, and a laser screen, RetroBlast combines nostalgia with cutting-edge technology. This unique robot is ready to explore the digital world and unleash its powerful abilities.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Web Design",
+    "Problem Solving"
+  ],
+  "alignment": "Neutral"
+}

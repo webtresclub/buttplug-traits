@@ -1,0 +1,15 @@
+{
+  "name": "Rosso Cat",
+  "description": "Rosso Cat is a unique oscilloscope-themed robot with a striking red body and black accents. It features classic arms and legs, reminiscent of vintage robots, giving it a nostalgic charm. The vibrant red and black screen adds a touch of modernity to its appearance. Rosso Cat is also equipped with stylish glasses, which enhance its visual capabilities while adding a touch of sophistication.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 5,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Analytical Thinking", "Data Visualization", "Electronics"],
+  "alignment": "Lawful Neutral"
+}

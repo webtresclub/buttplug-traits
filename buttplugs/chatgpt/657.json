@@ -1,0 +1,21 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is an oscilloscope-themed robot with a vibrant orange box body reminiscent of retro gaming consoles. Its arms and legs are designed to resemble a playful cat, adding personality and agility to its movements. The screen on its front, also shaped like a cat, functions as the display for various data and visualizations. To top it off, Pixel wears a protective helmet as an additional accessory, emphasizing its commitment to safety and exploration.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Data Visualization",
+    "Problem Solving",
+    "Agility"
+  ],
+  "alignment": "Neutral Good"
+}

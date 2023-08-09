@@ -1,0 +1,15 @@
+{
+  "name": "ElectroCat",
+  "description": "ElectroCat is a shiny black oscilloscope-themed robot with soldier buttons, cat-like arms and legs, a broken screen, and a helmet addon. It is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 5,
+    "charisma": 3,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 7,
+    "strength": 2,
+    "wisdom": 5
+  },
+  "skills": ["Electronics", "Programming", "Web Design"],
+  "alignment": "Neutral"
+}

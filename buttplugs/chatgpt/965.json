@@ -1,0 +1,20 @@
+{
+  "name": "Volttron",
+  "description": "Volttron is a forestGreen oscilloscope-themed robot with soldier arms and legs. Its retroConsole buttons add a vintage touch to its design. However, its screen is unfortunately broken, giving it a unique aesthetic. Volttron is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Problem-solving",
+    "Mechanical Engineering"
+  ],
+  "alignment": "Lawful Neutral"
+}

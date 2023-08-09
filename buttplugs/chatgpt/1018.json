@@ -1,0 +1,15 @@
+{
+  "name": "Foundry the ForestGreen Osciloscope",
+  "description": "Foundry is a unique osciloscope-themed robot with a forest green color scheme. Its arms and legs are made from sturdy foundry materials, giving it a durable and industrial appearance. The screen of Foundry is designed in a classic style, reminiscent of retro osciloscopes from the past.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

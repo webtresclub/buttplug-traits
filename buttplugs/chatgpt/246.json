@@ -1,0 +1,20 @@
+{
+  "name": "Sparky",
+  "description": "Sparky is a shiny black oscilloscope-themed robot with cat buttons, foundry arms and legs, a cat-themed screen, and a helmet add-on. It is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Good"
+}

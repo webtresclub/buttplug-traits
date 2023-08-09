@@ -1,0 +1,15 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is an oscilloscope-themed robot named after its ability to display precise and intricate patterns on its laser screen. With its cat-like box body, classic buttons, and sturdy foundry arms and legs, Pixel is a unique member of the WebtrES Club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Pattern Recognition"],
+  "alignment": "Neutral Good"
+}

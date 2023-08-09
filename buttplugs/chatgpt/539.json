@@ -1,0 +1,15 @@
+{
+  "name": "RetroBot",
+  "description": "RetroBot is a vintage-inspired oscilloscope-themed robot who is part of the WebtrES club. With its classic soldier-style box body, soldier arms and legs, and a snake-themed screen, RetroBot brings a touch of nostalgia to the modern world. Equipped with stylish shades as an add-on, RetroBot is ready to impress with its charm and charisma.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 8,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Communication"],
+  "alignment": "Lawful Good"
+}

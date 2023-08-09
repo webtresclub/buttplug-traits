@@ -1,0 +1,15 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is an oscilloscope themed robot who goes by the name of Pixel. With its vibrant orange box and button controls resembling a soldier, this unique robot stands out from the crowd. Its arms and legs are designed to resemble a cat, adding a touch of playfulness to its appearance. However, its screen is unfortunately broken, giving it a slightly damaged but intriguing look.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": ["Repair", "Analytical Thinking", "Data Processing"],
+  "alignment": "Neutral"
+}

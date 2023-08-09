@@ -1,0 +1,15 @@
+{
+  "name": "Rocketcat",
+  "description": "Rocketcat is an oscilloscope-themed robot, known for its unique combination of features. With its rocket arms and legs, it can quickly maneuver through any terrain, while its laser screen enables precise and targeted attacks. Rocketcat is a member of the WebtrES club, a group of technologically advanced robots dedicated to exploring the vast possibilities of the digital world.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 9,
+    "intelligence": 6,
+    "strength": 5,
+    "wisdom": 4
+  },
+  "skills": ["Mechanical Engineering", "Digital Navigation", "Targeting Systems"],
+  "alignment": "Neutral"
+}

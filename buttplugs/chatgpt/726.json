@@ -1,0 +1,15 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is an oscilloscope themed robot with a vibrant orange box and retro console buttons. Its arms and legs are sturdy and made from foundry materials, giving it a robust build. The screen on its front displays an adorable cat animation. Pixel is a proud member of the WebtrES club, where it utilizes its unique abilities and skills.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Neutral Good"
+}

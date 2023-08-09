@@ -1,0 +1,20 @@
+{
+  "name": "Laserbox Rocket",
+  "description": "Laserbox Rocket is a remarkable oscilloscope-themed robot and a proud member of the WebtrES club. With its forest green box and classic buttons, it stands out among its robotic peers. Equipped with rocket arms and legs, this robot is known for its agility and swift movements. Its laser screen adds a touch of futuristic technology to its overall design. Laserbox Rocket possesses exceptional abilities and skills that make it a valuable asset in any situation. Join Laserbox Rocket on its adventures as it explores the digital realm!",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 9,
+    "intelligence": 7,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Agility",
+    "Problem Solving"
+  ],
+  "alignment": "Neutral Good"
+}

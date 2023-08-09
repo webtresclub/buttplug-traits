@@ -1,0 +1,20 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is an oscilloscope themed robot who is part of the WebtrES club. With its vibrant red color, reminiscent of rossoCorsa, Circuit stands out from the crowd. Its classic buttons give it a nostalgic and vintage touch, while its cat-like arms and legs provide it with a sleek and agile appearance. The screen of Circuit resembles a snake, displaying information and data with fluidity and grace. This unique combination of traits makes Circuit a fascinating and highly functional member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 9,
+    "intelligence": 8,
+    "strength": 4,
+    "wisdom": 5
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

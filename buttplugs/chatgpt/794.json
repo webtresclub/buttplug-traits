@@ -1,0 +1,15 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is an oscilloscope-themed robot who is part of the WebtrES club. With its vibrant red color inspired by the rossoCorsa shade, Circuit stands out among its peers. Its body is adorned with a laser screen, allowing it to display intricate waveforms and data with precision. The classic box-shaped design gives Circuit a nostalgic charm while incorporating modern technology. Equipped with agile cat-like buttons and sturdy arms and legs, Circuit is both efficient and versatile.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

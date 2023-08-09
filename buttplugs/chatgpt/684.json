@@ -1,0 +1,15 @@
+{
+  "name": "Cybertron",
+  "description": "Cybertron is an oscilloscope-themed robot who is part of the WebtrES club. With a forest green box body and classic buttons, Cybertron stands tall with soldier-like arms and legs. Its screen is a striking combination of red and black, displaying data and information with precision. To enhance its vision, Cybertron is equipped with a pair of sleek glasses. This robot is a powerhouse, ready to tackle any task with its exceptional ability scores and skills.",
+  "ability_scores": {
+    "hp": 9,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 10,
+    "strength": 7,
+    "wisdom": 8
+  },
+  "skills": ["Data Analysis", "Programming", "Electronics", "Problem Solving"],
+  "alignment": "Lawful Neutral"
+}

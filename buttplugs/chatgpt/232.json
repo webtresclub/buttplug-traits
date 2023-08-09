@@ -1,0 +1,15 @@
+{
+  "name": "Volt the Oscilloscope",
+  "description": "Volt is a forestGreen-colored oscilloscope-themed robot with classic buttons and arms and legs positioned in a hand-down manner. Its screen is unfortunately broken, but it compensates by wearing a cool pair of glasses. Volt is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 8
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Oscilla",
+  "description": "Oscilla is a unique oscilloscope-themed robot who is a proud member of the WebtrES club. With its striking design featuring a red hot box body, retro console buttons, downward-facing arms and legs, and a screen displaying an adorable cat, Oscilla stands out from the crowd. This one-of-a-kind robot is not only a technological marvel but also a charming companion. With its advanced abilities and skills, it is ready to explore the digital realm and assist its club members in their endeavors.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 7,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis", "Problem Solving"],
+  "alignment": "Lawful Good"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Cybercat Oscilobot",
+  "description": "Cybercat Oscilobot is a unique robot with a forest green box body and retro console buttons. Its arms and legs are designed like a cat's, allowing it to move with grace and agility. Unfortunately, its screen is broken, but it compensates for this with a protective helmet addon. Cybercat Oscilobot is a member of the WebtrES club, a group of robots who explore the digital realm in search of knowledge and adventure.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 9,
+    "intelligence": 7,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Hacking", "Acrobatics", "Research"],
+  "alignment": "Neutral Good"
+}

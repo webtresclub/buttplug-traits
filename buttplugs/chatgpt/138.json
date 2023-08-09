@@ -1,0 +1,15 @@
+{
+  "name": "Rocketcat",
+  "description": "Rocketcat is a unique oscilloscope-themed robot with a broken screen. It has a retroConsole button interface and is equipped with rocket arms and legs. Additionally, it wears a helmet as an addon. Rocketcat is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 3
+  },
+  "skills": ["Rocket Propulsion", "Console Programming", "Retro Gaming"],
+  "alignment": "Neutral Good"
+}

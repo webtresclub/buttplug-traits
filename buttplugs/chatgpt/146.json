@@ -1,0 +1,19 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is a forest green oscilloscope-themed robot, with a broken screen and a button-like cat face. It has arms and legs with hands hanging down. Circuit is a member of the WebtrES club, where it uses its unique set of abilities to assist its fellow robot members.",
+  "ability_scores": {
+    "hp": 5,
+    "charisma": 3,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 2,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Troubleshooting"
+  ],
+  "alignment": "Neutral Good"
+}

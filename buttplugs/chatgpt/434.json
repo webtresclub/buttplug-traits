@@ -1,0 +1,15 @@
+{
+  "name": "Laserbox",
+  "description": "Laserbox is an oscilloscope-themed robot with a classic box design. It has soldier buttons and arms and legs, and its screen emits a powerful laser. Laserbox is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 3
+  },
+  "skills": ["Programming", "Engineering", "Combat"],
+  "alignment": "Lawful Neutral"
+}

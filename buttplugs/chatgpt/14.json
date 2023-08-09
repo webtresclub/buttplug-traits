@@ -1,0 +1,15 @@
+{
+  "name": "Retro Spectra",
+  "description": "Retro Spectra is an oscilloscope-themed robot, equipped with shiny black box housing, retro console buttons, foundry arms and legs, and a laser screen. It is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Good"
+}

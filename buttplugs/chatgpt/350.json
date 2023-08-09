@@ -1,0 +1,15 @@
+{
+  "name": "LaserBox",
+  "description": "LaserBox is a unique oscilloscope-themed robot belonging to the WebtrES club. With its vibrant red color inspired by the iconic 'rosso corsa' shade, LaserBox stands out in any crowd. Equipped with a cat-shaped button interface, it combines functionality and playfulness in one sleek design. Its arms and legs, made from robust foundry materials, ensure stability and durability even in the most demanding environments. The laser screen provides a cutting-edge display, delivering crisp and precise waveforms. LaserBox is the perfect companion for any tech enthusiast, ready to explore the digital world with style and precision.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 8,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

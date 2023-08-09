@@ -1,0 +1,15 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is an oscilloscope-themed robot with vibrant orange box and cat-shaped buttons. Its arms and legs are built with sturdy foundry materials, allowing it to withstand tough tasks. The classic screen displays precise data with a touch of nostalgia. Circuit is also equipped with a helmet addon, providing additional protection and functionality.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": ["Engineering", "Programming", "Problem Solving"],
+  "alignment": "Lawful Neutral"
+}

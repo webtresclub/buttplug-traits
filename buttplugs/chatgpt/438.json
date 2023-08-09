@@ -1,0 +1,15 @@
+{
+  "name": "Purrbot the Oscilloscope",
+  "description": "Purrbot is a charming and nostalgic robot with a passion for oscilloscopes. With its retroConsole buttons and cat-like arms and legs, it combines the best of both worlds - technology and playfulness. Its screen displays a mesmerizing snake game, adding a touch of whimsy to its electronic features. Purrbot is a proud member of the WebtrES club, where it showcases its unique abilities and skills.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 8,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Gaming"],
+  "alignment": "Neutral Good"
+}

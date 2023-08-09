@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is an oscilloscope-themed robot who is part of the WebtrES club. With a classic soldier design, Volt stands tall with its hand-down arms and legs. Its screen emits a powerful laser beam, making it a formidable force to be reckoned with. Equipped with a wide range of abilities, skills, and a charismatic personality, Volt is ready to tackle any challenge that comes its way.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Combat", "Problem-solving"],
+  "alignment": "Lawful Neutral"
+}

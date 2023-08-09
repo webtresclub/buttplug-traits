@@ -1,0 +1,15 @@
+{
+  "name": "Rosso",
+  "description": "Rosso is a unique oscilloscope-themed robot who is a proud member of the WebtrES club. With its classic box-shaped body and soldier buttons, Rosso stands out among its robotic peers. Its arms and legs are designed in a classic style, giving it a sense of elegance and sophistication. The vibrant red color of its box, inspired by the shade 'Rosso Corsa', adds a touch of style to its appearance. The screen of Rosso features an adorable cat design, bringing a sense of playfulness to its functionality. To top it all off, Rosso wears a pair of sleek glasses, accentuating its intellectual prowess. With its exceptional design and technological abilities, Rosso is a beloved member of the WebtrES club, contributing its unique skills to the collective knowledge of its peers.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 5,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": ["Coding", "Electronics", "Data Analysis", "Problem Solving"],
+  "alignment": "Lawful Neutral"
+}

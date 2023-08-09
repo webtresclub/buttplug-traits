@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a shiny yellow oscilloscope-themed robot with retro console buttons and hand-down arms and legs. Its screen displays a classic game of Snake. Volt is a member of the WebtrES club, a group of robots dedicated to exploring and understanding the vast web of the digital world.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

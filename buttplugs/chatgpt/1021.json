@@ -1,0 +1,15 @@
+{
+  "name": "Echo",
+  "description": "Echo is an oscilloscope-themed robot belonging to the WebtrES club. With its unique traits and abilities, Echo stands out as a fascinating member of the club. Its box-like body resembles a sleek cat, while its button controls resemble a playful feline's buttons. Equipped with hand-like arms and legs positioned downward, Echo moves with agility and precision. The screen on its body displays a mesmerizing snake pattern, captivating anyone who gazes upon it.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

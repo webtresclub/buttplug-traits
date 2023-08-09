@@ -1,0 +1,15 @@
+{
+  "name": "Retro Rocket",
+  "description": "Retro Rocket is an oscilloscope-themed robot and a proud member of the WebtrES club. With its forest green box and retro console buttons, this robot exudes a nostalgic charm. Its rocket arms and legs allow it to move swiftly through any terrain, evoking a sense of adventure. Although its screen is broken, Retro Rocket compensates for it by wearing stylish shades. This unique combination of traits makes Retro Rocket a standout member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 9,
+    "intelligence": 5,
+    "strength": 6,
+    "wisdom": 4
+  },
+  "skills": ["Programming", "Electronics", "Navigation"],
+  "alignment": "Neutral"
+}

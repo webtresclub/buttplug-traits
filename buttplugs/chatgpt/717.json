@@ -1,0 +1,15 @@
+{
+  "name": "RetroScope",
+  "description": "RetroScope is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its cat-shaped box body, it combines the nostalgia of retro consoles with the functionality of a modern oscilloscope. Its arms and legs are crafted from durable foundry materials, allowing it to move swiftly and with precision. The classic screen on its front displays waveforms and data in a visually appealing manner. To enhance its vision and accuracy, RetroScope wears stylish glasses. This unique combination of features makes RetroScope a standout member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Electronics", "Data Analysis", "Programming"],
+  "alignment": "Lawful Good"
+}

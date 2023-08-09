@@ -1,0 +1,20 @@
+{
+  "name": "Voltatron",
+  "description": "Voltatron is a vintage oscilloscope-themed robot, featuring classic box and buttons design with soldier arms and legs. Its screen displays a traditional, retro aesthetic. Voltatron is a member of the WebtrES club, a group of robots dedicated to exploring the digital world and expanding their knowledge.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 3,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 8
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Data analysis",
+    "Problem-solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

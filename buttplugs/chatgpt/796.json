@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a shiny black oscilloscope-themed robot with soldier buttons. It has arms and legs positioned with hands down, giving it a sturdy and solid appearance. The screen on its body has a classic design, reminiscent of vintage oscilloscopes.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": ["Electronics", "Data Analysis", "Problem Solving"],
+  "alignment": "Lawful Neutral"
+}

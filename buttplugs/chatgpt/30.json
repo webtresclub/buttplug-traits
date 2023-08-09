@@ -1,0 +1,20 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is an oscilloscope-themed robot, equipped with a shiny black box and retro console buttons. Its arms and legs are designed with a unique 'hand down' feature, allowing it to interact with its surroundings more effectively. The robot's screen emits a powerful laser, enabling it to perform precise measurements and analysis. Pixel is a proud member of the WebtrES club, utilizing its oscilloscope capabilities to contribute to cutting-edge web technologies.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 5,
+    "dexterity": 6,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

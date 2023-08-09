@@ -1,0 +1,19 @@
+{
+  "name": "Catalyst",
+  "description": "Catalyst is a shiny black oscilloscope-themed robot with classic arms and legs. It has a screen displaying a cat and wears stylish glasses. Catalyst is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Data Analysis"
+  ],
+  "alignment": "Lawful Neutral"
+}

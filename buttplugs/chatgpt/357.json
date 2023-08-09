@@ -1,0 +1,20 @@
+{
+  "name": "Volt",
+  "description": "Volt is an oscilloscope-themed robot that belongs to the WebtrES club. With its vibrant orange box and classic buttons, Volt stands out from the crowd. Its arms and legs are designed with a unique 'hand down' feature, allowing it to assist in precision tasks. The screen of Volt displays a mesmerizing game of snake, providing entertainment and functionality. To top it all off, Volt wears a sleek helmet as an addon, enhancing its capabilities and protecting it from potential hazards.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 8
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Problem-solving",
+    "Data analysis"
+  ],
+  "alignment": "Lawful Good"
+}

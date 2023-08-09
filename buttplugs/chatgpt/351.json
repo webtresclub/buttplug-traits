@@ -1,0 +1,15 @@
+{
+  "name": "Voltrex",
+  "description": "Voltrex is a formidable oscilloscope-themed robot who is a proud member of the WebtrES club. With its striking orange box, soldier buttons, soldier arms and legs, and a mesmerizing red and black screen, Voltrex stands out among its robotic peers. It possesses a unique blend of traits and abilities that make it a valuable asset to the club.",
+  "ability_scores": {
+    "hp": 9,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 7,
+    "strength": 6,
+    "wisdom": 5
+  },
+  "skills": ["Electronics", "Programming", "Analytical Thinking"],
+  "alignment": "Lawful Good"
+}

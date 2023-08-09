@@ -1,0 +1,15 @@
+{
+  "name": "Clyde",
+  "description": "Clyde is an oscilloscope-themed robot who is part of the WebtrES club. With a vibrant red body resembling the color of a racing car, Clyde stands out among the rest. His box-like structure, known as rossoCorsa, adds a touch of elegance and sophistication to his appearance. The buttons on his body, shaped like cats, add a playful and whimsical element to his design. Clyde's arms and legs are also cat-shaped, allowing him to move gracefully and with agility. His screen, redBlack, displays data and graphics in a mesmerizing combination of red and black hues. To top it all off, Clyde wears a stylish pair of glasses, giving him an intellectual and inquisitive aura. With his unique combination of traits, Clyde is ready to assist the WebtrES club in their endeavors.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 8,
+    "constitution": 7,
+    "dexterity": 9,
+    "intelligence": 10,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Data Analysis", "Electronics"],
+  "alignment": "Lawful Neutral"
+}

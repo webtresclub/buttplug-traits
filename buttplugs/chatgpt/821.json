@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a shinyYellow oscilloscope-themed robot with a classic screen and soldier-like arms and legs. It is a member of the WebtrES club and is known for its exceptional ability in analyzing and displaying electrical waveforms. Volt is also equipped with a pair of glasses as an addon, enhancing its visual capabilities.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 8
+  },
+  "skills": ["Electrical Waveform Analysis", "Data Visualization", "Precision Engineering"],
+  "alignment": "Lawful Neutral"
+}

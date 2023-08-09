@@ -1,0 +1,15 @@
+{
+  "name": "Circuitron",
+  "description": "Circuitron is an oscilloscope themed robot who is part of the WebtrES club. With its sleek design and vibrant red color reminiscent of the iconic sports car, rossoCorsa, Circuitron stands out in any crowd. Its classic buttons give it a nostalgic feel, while its soldier arms and legs provide it with strength and agility. The laser screen on its chest adds a touch of futuristic technology to this formidable machine.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

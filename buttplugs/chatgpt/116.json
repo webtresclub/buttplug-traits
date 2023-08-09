@@ -1,0 +1,15 @@
+{
+  "name": "Retro Console",
+  "description": "Retro Console is an oscilloscope-themed robot that is part of the WebtrES club. With its cat-like box body, hand-down arms and legs, and a laser screen, this robot brings a unique blend of nostalgia and futuristic technology. Its ability to display laser projections on its screen makes it a versatile and powerful companion for any technological endeavor.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

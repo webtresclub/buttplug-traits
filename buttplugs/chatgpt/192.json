@@ -1,0 +1,15 @@
+{
+  "name": "RetroScope",
+  "description": "RetroScope is a sentient oscilloscope-themed robot with a sleek, shiny black box body adorned with cat-shaped buttons for a touch of whimsy. Its arms and legs are also designed to resemble the graceful curves of a cat, allowing it to move with agility and precision. Its screen features a classic design, harkening back to the golden era of analog technology. To complete its stylish aesthetic, RetroScope wears a pair of fashionable glasses as an accessory, giving it a scholarly and sophisticated appearance.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

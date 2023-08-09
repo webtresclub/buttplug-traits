@@ -1,0 +1,15 @@
+{
+  "name": "Circuitron",
+  "description": "Circuitron is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its vibrant orange box and a collection of soldier buttons, Circuitron is always ready for action. Its arms and legs are made from durable foundry materials, ensuring strength and stability in any situation. Though its screen is broken, Circuitron compensates with its sharp intellect and exceptional problem-solving skills. The glasses addon enhances its visual capabilities, allowing it to analyze complex data with precision. With a combination of high intelligence and dexterity, Circuitron is a valuable asset to the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Analytical Thinking", "Problem Solving", "Data Analysis"],
+  "alignment": "Lawful Good"
+}

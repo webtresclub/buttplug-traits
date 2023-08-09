@@ -1,0 +1,15 @@
+{
+  "name": "RetroBot",
+  "description": "RetroBot is an oscilloscope-themed robot with a classic box, classic arms and legs, and a broken screen. It is a member of the WebtrES club, a gathering of technology enthusiasts who appreciate vintage electronics. Despite its broken screen, RetroBot is still functional and carries the charm of retro consoles. With its nostalgic appeal, RetroBot captures the hearts of both old-school tech lovers and collectors.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

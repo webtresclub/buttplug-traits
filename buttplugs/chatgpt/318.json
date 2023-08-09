@@ -1,0 +1,20 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is an oscilloscope-themed robot with a passion for exploring the digital world. With its sleek red body, reminiscent of the vibrant rossoCorsa shade, and classic button controls, Circuit is a true embodiment of retro-futurism. Equipped with rocket arms and legs, it can dart through the virtual realm with unmatched speed and agility. Its screen displays a timeless classic design, providing a nostalgic touch to its modern capabilities. To top it off, Circuit wears a pair of stylish glasses, giving it a distinguished and intellectual appearance.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 9,
+    "intelligence": 8,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [
+    "Digital Exploration",
+    "Rapid Data Analysis",
+    "Virtual Navigation",
+    "Problem Solving"
+  ],
+  "alignment": "Neutral Good"
+}

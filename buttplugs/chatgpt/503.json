@@ -1,0 +1,15 @@
+{
+  "name": "Rocketcat",
+  "description": "Rocketcat is a unique oscilloscope-themed robot with a broken screen. It is a member of the WebtrES club, known for its exceptional soldier abilities.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 3
+  },
+  "skills": ["Engineering", "Combat", "Rocket Science"],
+  "alignment": "Lawful Neutral"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Retrocat",
+  "description": "Retrocat is an oscilloscope-themed robot with a unique twist. Its design combines the nostalgia of retro consoles with the functionality of an oscilloscope. With its classic arms and legs, Retrocat is a stylish and eccentric addition to the WebtrES club. Its screen showcases an adorable cat, adding a touch of cuteness to its overall appearance. To top it off, Retrocat is always rocking a pair of cool shades, giving it a sleek and mysterious vibe.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 5,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 6
+  },
+  "skills": ["Electronics", "Programming", "Gaming"],
+  "alignment": "Neutral"
+}

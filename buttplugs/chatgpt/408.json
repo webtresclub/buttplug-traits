@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is an oscilloscope-themed robot with a forest green box and soldier buttons. Its arms and legs are crafted from sturdy foundry material, giving it durability and strength. The screen of Volt features an adorable cat design, adding a touch of playfulness to its appearance. To protect itself during its adventures, Volt wears a protective helmet as an add-on. It is a proud member of the WebtrES club, constantly exploring the digital landscape with its oscilloscope abilities.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": ["Oscilloscope Analysis", "Digital Communication", "Problem-Solving"],
+  "alignment": "Neutral Good"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Spark",
+  "description": "Spark is an oscilloscope themed robot with a classic box and buttons design. Its arms and legs resemble that of a cat, giving it a playful and agile appearance. However, its screen is unfortunately broken, but that doesn't stop Spark from being an integral part of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 9,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 3
+  },
+  "skills": ["Electronics", "Programming", "Troubleshooting"],
+  "alignment": "Lawful Neutral"
+}

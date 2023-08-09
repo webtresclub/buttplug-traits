@@ -1,0 +1,15 @@
+{
+  "name": "RetroBot",
+  "description": "RetroBot is an oscilloscope-themed robot with a vintage charm. Its box is painted in a vibrant orange color, giving it a touch of nostalgia. The buttons on its console are reminiscent of classic gaming controllers, adding a playful element to its design. RetroBot has classic-style arms and legs, which enhance its retro appeal. However, its screen is unfortunately broken, giving it a slightly imperfect aesthetic. Despite this flaw, RetroBot remains a beloved member of the WebtrES club, showcasing its unique personality and vintage flair.",
+  "ability_scores": {
+    "hp": 5,
+    "charisma": 7,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral Good"
+}

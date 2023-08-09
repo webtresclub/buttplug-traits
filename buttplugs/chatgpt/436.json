@@ -1,0 +1,15 @@
+{
+  "name": "Rocketcat",
+  "description": "Rocketcat is an oscilloscope-themed robot with rocket arms and legs. Its screen may be broken, but that doesn't stop this determined robot from being a valuable member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Engineering", "Rocket Science", "Web Design"],
+  "alignment": "Lawful Neutral"
+}

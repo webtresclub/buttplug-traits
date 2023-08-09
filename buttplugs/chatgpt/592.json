@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a shiny yellow oscilloscope-themed robot with a classic screen and rocket arms and legs. It is a member of the WebtrES club, a group of robots dedicated to exploring the depths of the internet and uncovering hidden treasures of knowledge.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Good"
+}

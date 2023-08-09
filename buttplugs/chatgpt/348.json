@@ -1,0 +1,20 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is an oscilloscope-themed robot with a classic screen and stylish shades. With its box-like soldier body and cat-like arms and legs, it is an eye-catching member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 8
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Data analysis",
+    "Problem-solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

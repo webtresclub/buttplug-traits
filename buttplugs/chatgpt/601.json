@@ -1,0 +1,20 @@
+{
+  "name": "Voltar",
+  "description": "Voltar is a retro-inspired oscilloscope-themed robot belonging to the prestigious WebtrES club. With a combination of a soldier's box body, foundry arms and legs, and a laser screen, Voltar stands out as a unique and powerful member of the club. Its design pays homage to the classic game consoles of the past, showcasing a blend of nostalgia and cutting-edge technology. Equipped with an impressive array of abilities and skills, Voltar is ready to take on any challenge that comes its way.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 5
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Combat Tactics",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Good"
+}

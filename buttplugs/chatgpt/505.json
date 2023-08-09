@@ -1,0 +1,20 @@
+{
+  "name": "Voltwave",
+  "description": "Voltwave is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its vibrant orange box and soldier button design, it stands out among its robotic peers. Its arms and legs are shaped like hands hanging downward, giving it a unique appearance. The screen of Voltwave resembles a snake, representing its ability to capture and analyze electrical signals with precision and agility. This robot possesses a perfect blend of style and functionality, making it a valuable asset in any technological endeavor.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 9,
+    "intelligence": 10,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electrical Engineering",
+    "Data Analysis",
+    "Programming",
+    "Problem Solving"
+  ],
+  "alignment": "Neutral Good"
+}

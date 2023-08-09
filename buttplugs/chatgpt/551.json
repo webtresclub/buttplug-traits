@@ -1,0 +1,15 @@
+{
+  "name": "Laserbox",
+  "description": "Laserbox is an oscilloscope-themed robot with a vibrant orange box and classic buttons. Its arms and legs resemble those of a cat, adding a playful touch to its appearance. The robot features a laser screen, which enhances its ability to analyze and display electronic signals with precision.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Data Analysis", "Precision Imaging"],
+  "alignment": "Lawful Neutral"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is an oscilloscope-themed robot with a shiny black box body and classic arms and legs. It features retro console buttons for control and a cat-themed screen for displaying data. Sporting a stylish helmet as an add-on, Retrotron is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 8
+  },
+  "skills": ["Data Analysis", "Electronics", "Programming"],
+  "alignment": "Lawful Neutral"
+}

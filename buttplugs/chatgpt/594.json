@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a shinyYellow oscilloscope-themed robot who is part of the WebtrES club. With its classic buttons, rocket arms and legs, and a snake-like screen, Volt is ready to take on any challenge.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

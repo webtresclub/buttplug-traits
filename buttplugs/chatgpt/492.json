@@ -1,0 +1,15 @@
+{
+  "name": "Eddy the Oscilobot",
+  "description": "Eddy the Oscilobot is a retro-inspired robot with an oscilloscope theme. Despite the broken screen, Eddy is a valuable member of the WebtrES Club, showcasing its unique abilities and charismatic personality.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 9,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 5
+  },
+  "skills": ["Technology", "Charisma", "Problem-solving"],
+  "alignment": "Neutral Good"
+}

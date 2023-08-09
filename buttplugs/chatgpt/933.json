@@ -1,0 +1,15 @@
+{
+  "name": "Catalyst Oscilobot",
+  "description": "Catalyst Oscilobot is an oscilloscope themed robot with a vibrant orange box body and a pair of stylish shades. Its arms and legs resemble those of a cat, adding a touch of playfulness to its design. The buttons on its body are reminiscent of a soldier's uniform, symbolizing its dedication and loyalty. The screen on its face also showcases a cat-like appearance, giving it a friendly and approachable look.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 5,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

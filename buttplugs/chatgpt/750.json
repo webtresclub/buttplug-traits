@@ -1,0 +1,15 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is an oscilloscope-themed robot who is part of the WebtrES club. With its vibrant red body adorned with black accents, Circuit stands out among its robotic peers. Its box-shaped frame, named 'rossoCorsa', houses a sleek red and black screen that displays intricate waveforms and data. Circuit's 'handDown' arms and legs allow it to maneuver with precision, while its 'cat' buttons provide it with a playful touch. To complete its stylish look, Circuit sports a pair of 'shades' addons, adding a cool and mysterious aura to its appearance.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 3,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

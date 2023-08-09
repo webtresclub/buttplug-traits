@@ -1,0 +1,15 @@
+{
+  "name": "Lasertron",
+  "description": "Lasertron is a unique oscilloscope-themed robot and a proud member of the WebtrES club. With its vibrant orange box and classic button design, Lasertron stands out in any crowd. Its arms and legs are made from sturdy foundry materials, giving it exceptional strength and durability. The highlight of Lasertron is its advanced laser screen, which allows it to display complex waveforms with remarkable precision and clarity. Lasertron's ability to analyze and interpret data sets it apart, making it an invaluable asset to the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 8,
+    "wisdom": 7
+  },
+  "skills": ["Data Analysis", "Programming", "Problem Solving"],
+  "alignment": "Lawful Neutral"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a fearless and charismatic oscilloscope-themed robot who is an esteemed member of the WebtrES club. With a sleek red body color reminiscent of the iconic racing red, Volt stands out from the crowd. Its classic box-shaped design and soldier-like buttons give it a strong and authoritative presence. The red and black screen adds a touch of sophistication and elegance to its appearance. With its top-notch abilities and skills, Volt is always ready to tackle any challenge that comes its way.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 8,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Problem Solving", "Leadership"],
+  "alignment": "Lawful Good"
+}

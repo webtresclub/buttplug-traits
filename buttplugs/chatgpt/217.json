@@ -1,0 +1,15 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is a unique oscilloscope-themed robot belonging to the WebtrES club. With its vibrant forest green box, retro console buttons, stylish shades addon, and a red and black screen, Pixel stands out among its robotic peers. As a member of the club, Pixel is equipped with impressive abilities and skills that make it a valuable asset in any technological endeavor.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Neutral Good"
+}

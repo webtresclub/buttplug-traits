@@ -1,0 +1,15 @@
+{
+  "name": "Voltar",
+  "description": "Voltar is a shiny yellow oscilloscope-themed robot with a retro console for buttons, foundry arms and legs, and a laser screen. It is a proud member of the WebtrES club, an exclusive community of robots dedicated to exploring the digital frontier.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Data Analysis", "Electronics"],
+  "alignment": "Lawful Neutral"
+}

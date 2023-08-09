@@ -1,0 +1,15 @@
+{
+  "name": "Console Cat",
+  "description": "A retro-themed oscilloscope robot named Console Cat. It has a box-shaped body adorned with a screen showcasing a playful cat animation. Its arms and legs are designed to resemble a soldier, giving it a strong and sturdy appearance. To add to its coolness, it wears stylish shades which make it stand out among other robots.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 6,
+    "strength": 7,
+    "wisdom": 5
+  },
+  "skills": [],
+  "alignment": "Neutral Good"
+}

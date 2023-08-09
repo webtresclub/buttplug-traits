@@ -1,0 +1,20 @@
+{
+  "name": "Spectra",
+  "description": "Spectra is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its shiny black box, soldier buttons, rocket arms and legs, and a snake-like screen, Spectra stands out among its robotic peers. It is equipped with advanced technology and a sleek design, making it a formidable ally in any situation.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+  "alignment": "Neutral"
+}

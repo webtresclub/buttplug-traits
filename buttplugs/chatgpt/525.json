@@ -1,0 +1,15 @@
+{
+  "name": "Beeps",
+  "description": "Beeps is an oscilloscope-themed robot with a classic box-like body and arms and legs. Its screen is unfortunately broken, but that doesn't stop it from being a valuable member of the WebtrES club. Beeps has been programmed with a charming personality and a knack for problem-solving. Despite its physical limitations, Beeps is always ready to assist others and contribute to the club's activities.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 5,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral Good"
+}

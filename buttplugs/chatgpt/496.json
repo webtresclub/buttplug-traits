@@ -1,0 +1,15 @@
+{
+  "name": "Circuit Breaker",
+  "description": "Circuit Breaker is an oscilloscope-themed robot who is part of the WebtrES club. With a sturdy soldier box body and arms and legs made from foundry materials, Circuit Breaker is a formidable companion. However, its screen is unfortunately broken, limiting its visual capabilities. To compensate for this, Circuit Breaker is equipped with a helmet addon, which enhances its overall functionality. Despite its damaged screen, Circuit Breaker excels in its ability to analyze and interpret electronic waveforms.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": ["Electronic Waveform Analysis", "Foundry Materials Manipulation", "Combat Strategies"],
+  "alignment": "Lawful Neutral"
+}

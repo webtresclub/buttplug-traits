@@ -1,0 +1,20 @@
+{
+  "name": "RetroTech",
+  "description": "RetroTech is a vintage-inspired oscilloscope-themed robot that is part of the WebtrES club. With its forest green box, soldier buttons, soldier arms and legs, and a classic screen, RetroTech exudes a nostalgic charm while delivering cutting-edge technology.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+  "alignment": "Neutral Good"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Catalyst",
+  "description": "Catalyst is an oscilloscope-themed robot who is part of the WebtrES club. With its unique features, Catalyst stands out among its peers. It has a cat-shaped screen, which adds a touch of playfulness to its design. The addition of glasses gives Catalyst a studious and intellectual appearance. Catalyst's box-like body and classic button interface make it both functional and retro-chic. Its arms and legs are designed in a hand-down position, allowing it to manipulate objects and navigate its surroundings with ease.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Problem Solving"],
+  "alignment": "Lawful Good"
+}

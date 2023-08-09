@@ -1,0 +1,15 @@
+{
+  "name": "RetroBot",
+  "description": "RetroBot is a vintage-inspired oscilloscope-themed robot, proudly representing the WebtrES club. With its striking rossoCorsa-colored box and soldier-like arms and legs, RetroBot stands out among its robotic peers. Its broken screen adds a touch of mystery and curiosity to its appearance, leaving others wondering about its past adventures. To complete its unique style, RetroBot wears sleek shades that give it a cool and enigmatic vibe. Despite its broken screen, RetroBot remains fully functional and ready to showcase its abilities.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

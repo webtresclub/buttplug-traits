@@ -1,0 +1,15 @@
+{
+  "name": "RetroBot",
+  "description": "RetroBot is a vintage-inspired oscilloscope-themed robot, known for its classic screen and nostalgic aura. With its vibrant red box, named RossoCorsa, and retro console buttons, it exudes a sense of timeless charm. Its arms and legs are built with precision by the Foundry, ensuring durability and stability. The classic screen adds a touch of nostalgia to its overall appearance, making it a perfect addition to the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Problem Solving"],
+  "alignment": "Neutral"
+}

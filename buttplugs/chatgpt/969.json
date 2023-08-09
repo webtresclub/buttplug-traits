@@ -1,0 +1,15 @@
+{
+  "name": "Bitstream",
+  "description": "Bitstream is a unique oscilloscope-themed robot, designed with state-of-the-art technology and a retro console aesthetic. With its cat-like box body, rocket arms and legs, and a screen displaying the classic game Snake, Bitstream is a true marvel of both form and function.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Gaming"],
+  "alignment": "Neutral"
+}

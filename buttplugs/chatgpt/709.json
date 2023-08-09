@@ -1,0 +1,20 @@
+{
+  "name": "ElectroScope",
+  "description": "ElectroScope is a unique oscilloscope-themed robot who is a proud member of the WebtrES club. With its forest green box, cat buttons, classic arms and legs, and a striking red and black screen, ElectroScope stands out in any crowd. It boasts impressive ability scores in hp, charisma, constitution, dexterity, intelligence, strength, and wisdom. This robot is not just a visual delight but also a powerful companion for any technological endeavor.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+  "alignment": "Neutral Good"
+}

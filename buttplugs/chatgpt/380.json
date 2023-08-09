@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is an oscilloscope-themed robot with a classic box body, soldier buttons, foundry arms and legs, and a broken screen. As a member of the WebtrES club, Volt is equipped with a unique set of abilities and skills to assist in various tasks.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 3,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 5
+  },
+  "skills": ["Programming", "Electronics", "Problem-solving"],
+  "alignment": "Lawful Neutral"
+}

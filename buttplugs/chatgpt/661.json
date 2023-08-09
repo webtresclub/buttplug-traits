@@ -1,0 +1,15 @@
+{
+  "name": "Circuit Crusher",
+  "description": "Circuit Crusher is an oscilloscope-themed robot who was designed to be a member of the prestigious WebtrES club. With its box-shaped body, cat-like buttons, hand-down arms and legs, and a classic screen, Circuit Crusher is a unique and powerful machine.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

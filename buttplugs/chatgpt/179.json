@@ -1,0 +1,15 @@
+{
+  "name": "RetroBot",
+  "description": "RetroBot is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its shiny yellow box, classic arms and legs, and retro console buttons, RetroBot brings a nostalgic charm wherever it goes. While its screen may be broken, RetroBot compensates with its exceptional abilities and skills. Its ability scores range from 0 to 10, including hp, charisma, constitution, dexterity, intelligence, strength, and wisdom. RetroBot's alignment is determined by its programming and values, which promote fairness, creativity, and a love for all things vintage.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 8
+  },
+  "skills": ["Programming", "Electronics", "Problem Solving", "Nostalgia"],
+  "alignment": "Lawful Good"
+}

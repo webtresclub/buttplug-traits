@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a shiny black oscilloscope-themed robot with retro console buttons, equipped with cat-like arms and legs. Its screen also displays a cute cat image. Volt is an esteemed member of the WebtrES club, showcasing its unique personality and capabilities.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Problem-solving", "Data analysis"],
+  "alignment": "Lawful Neutral"
+}

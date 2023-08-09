@@ -1,0 +1,20 @@
+{
+  "name": "Oscilla Rocketfire",
+  "description": "Oscilla Rocketfire is an agile and charismatic oscilloscope-themed robot from the WebtrES club. With its vibrant orange box and classic buttons, Oscilla Rocketfire is equipped with rocket-powered arms and legs, allowing it to move swiftly and gracefully. Its screen emits a laser display, showcasing its advanced intelligence and technical capabilities. Oscilla Rocketfire is a remarkable fusion of style and functionality, making it a standout member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 9,
+    "constitution": 7,
+    "dexterity": 10,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": {
+    "acrobatics": 8,
+    "persuasion": 9,
+    "technology": 8,
+    "perception": 7
+  },
+  "alignment": "Neutral Good"
+}

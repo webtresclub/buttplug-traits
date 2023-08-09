@@ -1,0 +1,21 @@
+{
+  "name": "Blitz",
+  "description": "Blitz is a soldier robot with rocket arms and legs. Despite a broken screen, it compensates with its enhanced vision provided by the glasses addon. Blitz is an oscilloscope-themed robot and a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 5
+  },
+  "skills": [
+    "Combat Tactics",
+    "Rocket Propulsion",
+    "Enhanced Vision",
+    "Electronics",
+    "Data Analysis"
+  ],
+  "alignment": "Lawful Good"
+}

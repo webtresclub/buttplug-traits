@@ -1,0 +1,15 @@
+{
+  "name": "Rosso Corsa",
+  "description": "Rosso Corsa is a vintage-inspired oscilloscope-themed robot belonging to the WebtrES club. With its retro console buttons and soldier-like arms and legs, it showcases both style and functionality. Its classic screen adds a touch of nostalgia, while the helmet addon provides extra protection and enhances its overall appearance.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

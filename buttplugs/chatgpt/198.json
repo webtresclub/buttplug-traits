@@ -1,0 +1,15 @@
+{
+  "name": "Retro Rocket",
+  "description": "A vintage oscilloscope-themed robot named Retro Rocket, who is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

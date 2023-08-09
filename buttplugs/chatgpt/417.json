@@ -1,0 +1,15 @@
+{
+  "name": "Lasertron",
+  "description": "Lasertron is a shiny black oscilloscope-themed robot with a cat-shaped button panel. It has arms and legs that resemble hands hanging down, and its screen emits a powerful laser. Lasertron is a member of the WebtrES club, a group of robots dedicated to exploring the depths of the internet.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 8
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Good"
+}

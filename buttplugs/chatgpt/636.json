@@ -1,0 +1,15 @@
+{
+  "name": "Catbox Osciloscope",
+  "description": "Catbox Osciloscope is a robotic marvel that combines the classic charm of a vintage osciloscope with the sleek agility of a cat. Equipped with cat-like arms and legs, this robot is a part of the WebtrES club, known for their exceptional skills in web development and electronic engineering. Its screen, resembling a cat's face, displays intricate waveforms and data with precision. To top it off, Catbox Osciloscope sports a pair of stylish shades, adding a touch of attitude to its already impressive design.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 9,
+    "intelligence": 10,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Web Development", "Electronic Engineering", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

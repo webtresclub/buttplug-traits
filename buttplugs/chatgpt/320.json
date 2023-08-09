@@ -1,0 +1,15 @@
+{
+  "name": "RetroBot",
+  "description": "RetroBot is an oscilloscope-themed robot who is part of the WebtrES club. With its classic soldier buttons and arms, it brings a nostalgic touch to the modern world. Equipped with a red and black screen and stylish glasses, RetroBot is always ready to analyze and display electronic signals. It combines the charm of retro consoles with the functionality of a high-tech robot.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Electronics", "Data Analysis", "Programming"],
+  "alignment": "Neutral"
+}

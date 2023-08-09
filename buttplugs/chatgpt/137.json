@@ -1,0 +1,15 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is an oscilloscope-themed robot with an orange box body, equipped with retro console buttons and foundry arms and legs. Its screen displays a captivating combination of red and black colors, reminiscent of classic oscilloscope displays. To complete its unique look, Retrotron also wears a stylish helmet as an addon. Retrotron is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

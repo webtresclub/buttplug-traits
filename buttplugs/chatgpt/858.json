@@ -1,0 +1,15 @@
+{
+  "name": "Rocketcat",
+  "description": "Rocketcat is an oscilloscope-themed robot with a rocket-powered soldier body, equipped with a red and black screen, and a helmet addon. Rocketcat is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": ""
+}

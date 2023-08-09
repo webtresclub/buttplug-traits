@@ -1,0 +1,20 @@
+{
+  "name": "Volt",
+  "description": "Volt is an oscilloscope-themed robot who is part of the WebtrES club. It has a shiny yellow box with soldier buttons, and its arms and legs are in a hand-down position. The screen on its body displays a mesmerizing snake pattern, adding to its unique appearance.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Data Analysis",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

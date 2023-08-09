@@ -1,0 +1,15 @@
+{
+  "name": "CyberWave",
+  "description": "CyberWave is a unique oscilloscope-themed robot belonging to the WebtrES club. With its forest green box, retro console buttons, and hand-down arms and legs, it stands out among its robotic peers. The screen of CyberWave displays a classic game of snake, adding a touch of nostalgia to its appearance. This robot is equipped with advanced technology and is ready to assist its users in analyzing and visualizing electronic waveforms.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 8
+  },
+  "skills": ["Electronics", "Data Analysis", "Programming"],
+  "alignment": "Lawful Neutral"
+}

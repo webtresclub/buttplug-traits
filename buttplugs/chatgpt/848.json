@@ -1,0 +1,15 @@
+{
+  "name": "Juno",
+  "description": "Juno is a vintage oscilloscope-themed robot who is a proud member of the WebtrES club. With its retroConsole box, retroConsole buttons, handDown armsandlegs, classic screen, and helmet addon, Juno combines a nostalgic look with advanced technology.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Data Analysis", "Troubleshooting"],
+  "alignment": "Lawful Good"
+}

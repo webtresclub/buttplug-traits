@@ -1,0 +1,20 @@
+{
+  "name": "Rocketbox",
+  "description": "Rocketbox is an oscilloscope themed robot with a shiny yellow box body. Despite having a broken screen, it is equipped with rocket arms and legs for enhanced mobility. It also wears a pair of glasses as an add-on accessory. Rocketbox is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": {
+    "programming": 8,
+    "engineering": 7,
+    "communication": 6,
+    "problem_solving": 9
+  },
+  "alignment": "Lawful Neutral"
+}

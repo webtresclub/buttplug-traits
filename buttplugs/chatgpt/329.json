@@ -1,0 +1,15 @@
+{
+  "name": "Lasertron",
+  "description": "Lasertron is a shiny black oscilloscope-themed robot with a soldier-like appearance. It has a laser screen and a set of buttons shaped like cats. Lasertron is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

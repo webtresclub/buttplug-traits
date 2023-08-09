@@ -1,0 +1,20 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is an oscilloscope-themed robot with a passion for vintage technology. With its sleek box-shaped body resembling a cat, Retrotron stands out in the WebtrES club. Its arms and legs are designed with a hand-down feature, allowing it to interact with various devices and gadgets. The robot's screen displays a mesmerizing red and black pattern, adding a touch of nostalgia to its appearance. Sporting a pair of stylish glasses, Retrotron exudes an air of sophistication and intelligence. As a member of the WebtrES club, Retrotron showcases its exceptional ability to analyze and interpret electronic signals with precision and accuracy.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronic Signal Analysis",
+    "Retro Technology Knowledge",
+    "Device Interaction",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

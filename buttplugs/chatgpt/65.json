@@ -1,0 +1,15 @@
+{
+  "name": "Buzzwave",
+  "description": "Buzzwave is an oscilloscope-themed robot who is a dedicated member of the WebtrES club. With its soldier box, rocket arms and legs, and a classic screen, Buzzwave is ready for action and exploration in the digital realm.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Digital Analysis", "Rocket Propulsion", "Combat Tactics"],
+  "alignment": "Lawful Neutral"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Bolt",
+  "description": "Bolt is a vintage oscilloscope-themed robot with a broken screen, sporting a pair of stylish shades. As a member of the WebtrES club, Bolt is always ready to analyze and display data in style.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 3,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Data Analysis", "Visual Display", "Repair"],
+  "alignment": "Lawful Neutral"
+}

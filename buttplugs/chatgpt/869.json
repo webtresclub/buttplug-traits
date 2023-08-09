@@ -1,0 +1,15 @@
+{
+  "name": "Rocket Snake",
+  "description": "Rocket Snake is an oscilloscope-themed robot belonging to the WebtrES club. With its classic box design and soldier-themed buttons, Rocket Snake stands out among its peers. Its arms and legs are equipped with rocket propulsion, allowing it to move swiftly and with precision. The screen of the oscilloscope resembles the pattern of a snake, adding a unique touch to its overall appearance.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 9,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

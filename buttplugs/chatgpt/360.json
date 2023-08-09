@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a vintage oscilloscope-themed robot who is a proud member of the WebtrES club. With a sleek box-like body, button controls resembling a cat's face, and arms and legs designed in the shape of playful feline limbs, Volt is a unique and eye-catching creation. Its classic screen displays mesmerizing waveforms and patterns, reminiscent of the golden age of technology. Volt combines the charm of a cat with the functionality of an oscilloscope, making it a delightful companion for any tech enthusiast.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 7,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": ["Electronics", "Programming", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

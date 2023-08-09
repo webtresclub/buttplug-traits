@@ -1,0 +1,15 @@
+{
+  "name": "Voltrex",
+  "description": "Voltrex is a retro-inspired oscilloscope-themed robot, equipped with soldier-style buttons and arms, and legs that resemble those of a soldier. Its screen displays a classic game of Snake, adding a touch of nostalgia to its appearance.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 3,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 4
+  },
+  "skills": ["Electronics", "Programming"],
+  "alignment": "Lawful Neutral"
+}

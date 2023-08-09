@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a forest green oscilloscope-themed robot with classic buttons and soldier-like arms and legs. Its screen is designed to resemble a snake. Volt is a proud member of the WebtrES club, where it showcases its unique abilities and skills.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

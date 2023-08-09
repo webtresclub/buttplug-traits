@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a shinyYellow oscilloscope-themed robot with soldier buttons and armsandlegs. Its redBlack screen and shades addon give it a stylish and mysterious appearance. Volt is a member of the WebtrES club, where it uses its oscilloscope abilities to analyze and measure electrical signals.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": ["Electrical Engineering", "Data Analysis", "Precision Measurements"],
+  "alignment": "Lawful Neutral"
+}

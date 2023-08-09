@@ -1,0 +1,15 @@
+{
+  "name": "Oscilla",
+  "description": "Oscilla is a highly advanced oscilloscope-themed robot belonging to the prestigious WebtrES club. Its body design is characterized by a box-shaped structure resembling a soldier, with arms and legs resembling that of a cat. The screen, however, features a unique snake pattern, adding a touch of visual interest to its appearance. Oscilla possesses impressive ability scores in various aspects, making it a formidable member of the club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Data Analysis", "Programming"],
+  "alignment": "Lawful Neutral"
+}

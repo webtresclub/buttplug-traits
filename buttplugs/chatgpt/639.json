@@ -1,0 +1,15 @@
+{
+  "name": "Retro Soldier",
+  "description": "Retro Soldier is an oscilloscope-themed robot with a classic console screen, equipped with soldier buttons and sturdy foundry arms and legs. It is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 7,
+    "strength": 6,
+    "wisdom": 5
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

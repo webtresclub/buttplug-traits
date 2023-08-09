@@ -1,0 +1,15 @@
+{
+  "name": "Oscilla",
+  "description": "Oscilla is a soldier-themed oscilloscope robot, designed for both precision and combat. With its classic button controls and sturdy soldier-like arms and legs, Oscilla is a formidable presence in the WebtrES club. Its laser screen provides accurate and powerful visual displays, making it an essential tool for analyzing and troubleshooting electronic signals.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Combat Analysis", "Precision Shooting"],
+  "alignment": "Lawful Neutral"
+}

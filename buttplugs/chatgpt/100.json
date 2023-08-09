@@ -1,0 +1,15 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is a retro-themed oscilloscope robot with a nostalgic touch. Sporting a classic box body, it has cat-like arms and legs that give it a playful appearance. Its screen displays the iconic snake game, entertaining both humans and robots. To complete the retro look, Circuit has a pair of stylish glasses as an accessory.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Gaming"],
+  "alignment": "Neutral Good"
+}

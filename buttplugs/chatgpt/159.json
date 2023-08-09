@@ -1,0 +1,15 @@
+{
+  "name": "RetroWave",
+  "description": "RetroWave is an oscilloscope-themed robot and a proud member of the WebtrES club. With its forest green box and laser screen, it stands out from the crowd. Its soldier-like arms and legs give it a sturdy and reliable appearance. RetroWave combines the nostalgia of retro consoles with the futuristic technology of lasers, making it a fascinating and unique member of the club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 4
+  },
+  "skills": ["Programming", "Electronics", "Problem Solving"],
+  "alignment": "Lawful Good"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Volt",
+  "description": "Volt is an oscilloscope-themed robot with a classic box design and buttons. Its arms and legs are made from sturdy foundry materials, giving it strength and durability. The screen of Volt is equipped with a powerful laser display, allowing it to project precise waveform visuals. It is a proud member of the WebtrES club, a community of technologically sophisticated robots dedicated to advancing web technologies.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Data Analysis",
+    "Web Development"
+  ],
+  "alignment": "Lawful Neutral"
+}

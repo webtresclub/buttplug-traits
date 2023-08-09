@@ -1,0 +1,15 @@
+{
+  "name": "RetroBot",
+  "description": "RetroBot is an oscilloscope-themed robot with a classic box design. It features retro console buttons, rocket arms and legs, a red and black screen, and a cool helmet as an add-on. RetroBot is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronic Engineering", "Data Analysis"],
+  "alignment": "Lawful Good"
+}

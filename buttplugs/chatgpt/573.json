@@ -1,0 +1,15 @@
+{
+  "name": "Rocketwave",
+  "description": "Rocketwave is a charismatic oscilloscope-themed robot with a vibrant orange box body adorned with classic buttons. Its rocket arms and legs allow it to move swiftly and gracefully, while its screen displays a playful cat animation. To add to its cool factor, Rocketwave sports a stylish pair of shades as an accessory. This unique NFT robot is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 8,
+    "constitution": 6,
+    "dexterity": 9,
+    "intelligence": 5,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Acrobatics", "Persuasion"],
+  "alignment": "Neutral Good"
+}

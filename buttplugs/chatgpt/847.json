@@ -1,0 +1,20 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is a retro-themed oscilloscope robot, part of the WebtrES club. With its box-like body resembling a classic console, it stands out with its vibrant retro console buttons and soldier-like arms and legs. Its screen displays a game of snake, adding a playful touch to its appearance. Equipped with trendy glasses as an addon, Pixel combines nostalgia with a modern twist.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 5
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Problem-solving",
+    "Retro gaming"
+  ],
+  "alignment": "Lawful Good"
+}

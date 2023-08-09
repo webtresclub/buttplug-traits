@@ -1,0 +1,15 @@
+{
+  "name": "Voltex",
+  "description": "Voltex is a forestGreen oscilloscope-themed robot with soldier-like box buttons and arms and legs. It has a redBlack screen and is equipped with shades as an additional accessory.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 3,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 4
+  },
+  "skills": ["Electronics", "Programming", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

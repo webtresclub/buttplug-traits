@@ -1,0 +1,15 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is an oscilloscope-themed robot hailing from the prestigious WebtrES club. With its vibrant orange box and classic screen, this robot stands out among its peers. Sporting soldier-like arms and legs, Retrotron is a formidable presence in any digital realm. Its retroConsole buttons add a nostalgic touch, allowing it to effortlessly navigate through the virtual landscape. Equipped with advanced technology, Retrotron has honed its ability_scores to achieve a perfect balance of hp, charisma, constitution, dexterity, intelligence, strength, and wisdom. This remarkable robot is ready to explore new frontiers and leave a lasting impression on all who encounter it.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 7,
+    "constitution": 9,
+    "dexterity": 6,
+    "intelligence": 10,
+    "strength": 7,
+    "wisdom": 8
+  },
+  "skills": ["Programming", "Electronics", "Analytical Thinking", "Problem Solving"],
+  "alignment": "Lawful Good"
+}

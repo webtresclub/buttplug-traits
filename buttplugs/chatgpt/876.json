@@ -1,0 +1,20 @@
+{
+  "name": "Catalyst the Osciloscat",
+  "description": "Catalyst the Osciloscat is a unique robot with an orange box body, classic buttons, and cat-like arms and legs. It features a classic screen and an additional helmet addon. Catalyst is a member of the WebtrES club, where it utilizes its oscilloscope-themed abilities to contribute to the collective knowledge and creativity of the group.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [
+    "Data analysis",
+    "Electronics",
+    "Programming",
+    "Problem-solving"
+  ],
+  "alignment": "Neutral"
+}

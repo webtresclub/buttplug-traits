@@ -1,0 +1,15 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is an oscilloscope-themed robot belonging to the WebtrES club. With its retroConsole box and buttons, classic arms and legs, and a broken screen, Circuit is a unique and nostalgic creation.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 3,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Troubleshooting"],
+  "alignment": "Neutral"
+}

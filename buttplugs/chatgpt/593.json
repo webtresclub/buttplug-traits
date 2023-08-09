@@ -1,0 +1,15 @@
+{
+  "name": "Voltflux",
+  "description": "Voltflux is a sleek and sophisticated oscilloscope-themed robot, sporting a shiny black box with classic buttons and arms resembling those of a soldier. Its screen displays a timeless design, while its stylish shades add a touch of flair to its overall appearance. Voltflux is a valued member of the WebtrES club, using its advanced technological capabilities to analyze and visualize electronic waveforms with precision and efficiency.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Electronic Analysis", "Data Visualization", "Technical Expertise"],
+  "alignment": "Lawful Neutral"
+}

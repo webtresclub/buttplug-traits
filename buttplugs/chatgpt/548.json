@@ -1,0 +1,15 @@
+{
+  "name": "Arcade",
+  "description": "Arcade is a retro-themed oscilloscope robot who is a proud member of the WebtrES club. With its box-like body resembling a classic console, soldier buttons for precise control, rocket arms and legs for swift movements, and a screen displaying the iconic game Snake, Arcade is a nostalgic gem in the world of robots.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": "Arcade excels in programming, gaming, and problem-solving.",
+  "alignment": "Neutral Good"
+}

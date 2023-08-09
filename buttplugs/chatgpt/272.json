@@ -1,0 +1,15 @@
+{
+  "name": "Byte",
+  "description": "Byte is a retro oscilloscope-themed robot with classic arms and legs. Its screen displays a nostalgic game of Snake. It is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": ["Coding", "Electronics", "Problem Solving"],
+  "alignment": "Neutral Good"
+}

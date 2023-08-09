@@ -1,0 +1,15 @@
+{
+  "name": "Rocket",
+  "description": "Rocket is an oscilloscope-themed robot who is part of the WebtrES club. With its soldier-class box body and classic buttons, Rocket stands out with its rocket arms and legs, allowing it to maneuver swiftly and efficiently. Its screen displays a mesmerizing snake design, adding a touch of elegance to its overall appearance. Additionally, Rocket sports a protective helmet as an extra addon, ensuring its safety during its adventures.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 9,
+    "intelligence": 6,
+    "strength": 6,
+    "wisdom": 5
+  },
+  "skills": [],
+  "alignment": ""
+}

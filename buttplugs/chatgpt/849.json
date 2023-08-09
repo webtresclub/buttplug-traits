@@ -1,0 +1,21 @@
+{
+  "name": "Captain Osciscope",
+  "description": "Captain Osciscope is an oscilloscope-themed robot who is a proud member of the WebtrES Club. With its unique traits of a cat-shaped screen and soldier-like arms and legs, Captain Osciscope combines the precision and agility of a soldier with the versatility and curiosity of a feline. This robot is ready to analyze and measure any electrical signal with utmost accuracy, making it an invaluable asset to the club and its members.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 9,
+    "intelligence": 10,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electrical Signal Analysis",
+    "Precision Measurement",
+    "Agility",
+    "Problem Solving",
+    "Technical Expertise"
+  ],
+  "alignment": "Lawful Neutral"
+}

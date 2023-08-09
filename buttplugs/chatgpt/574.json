@@ -1,0 +1,21 @@
+{
+  "name": "Byte the Osciloscope",
+  "description": "Byte is a unique oscilloscope-themed robot who is part of the WebtrES club. With its cat-shaped box body and classic arms and legs, Byte stands out among its fellow robots. Its screen, which also features a cat design, provides a visual representation of electrical signals and waveforms. To add a touch of sophistication, Byte wears a pair of stylish glasses, enhancing its look and functionality. With its impressive abilities and skills, Byte is ready to contribute to the WebtrES club and make a lasting impact in the world of technology.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 7,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": [
+    "Electronics",
+    "Data Analysis",
+    "Programming",
+    "Problem Solving",
+    "Teamwork"
+  ],
+  "alignment": "Lawful Good"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is a charismatic oscilloscope-themed robot with a soldier mentality. Equipped with soldier-like buttons and arms, it possesses a laser screen for enhanced functionality. Retrotron is a proud member of the WebtrES club, showcasing its unique abilities and traits.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 7,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Combat Tactics",
+    "Data Analysis"
+  ],
+  "alignment": "Neutral Good"
+}

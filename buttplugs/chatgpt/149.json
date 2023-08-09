@@ -1,0 +1,20 @@
+{
+  "name": "Pulsar",
+  "description": "Pulsar is an oscilloscope-themed robot who wields the power of precision and accuracy. With its classic soldier design, rocket arms and legs, and a laser screen, Pulsar is a formidable member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [
+    "Precision targeting",
+    "Electrical engineering",
+    "Data analysis",
+    "Combat tactics"
+  ],
+  "alignment": "Lawful Good"
+}

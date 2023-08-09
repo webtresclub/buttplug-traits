@@ -1,0 +1,20 @@
+{
+  "name": "Volt-Oscilla",
+  "description": "Volt-Oscilla is an oscilloscope themed robot who is part of the WebtrES club. With its vibrant orange box and classic buttons, it stands out among its robotic peers. Its handDown arms and legs allow it to interact with its surroundings with precision. The classic screen displays waveforms and data in a visually appealing manner, making it a favorite among engineers and tech enthusiasts alike.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronics",
+    "Data Analysis",
+    "Programming",
+    "Problem Solving"
+  ],
+  "alignment": "Neutral Good"
+}

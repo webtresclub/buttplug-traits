@@ -1,0 +1,15 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is a forest green oscilloscope-themed robot with cat-shaped buttons and arms, legs, and a screen adorned with cute cat illustrations. It comes with a stylish pair of shades as an additional accessory. Pixel is a member of the WebtrES club, a community of technologically advanced robots.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 8
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

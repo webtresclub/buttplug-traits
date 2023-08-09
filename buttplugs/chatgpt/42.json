@@ -1,0 +1,15 @@
+{
+  "name": "Spark",
+  "description": "Spark is a shiny yellow oscilloscope-themed robot with soldier buttons and arms and legs made from foundry materials. Its screen displays a cute cat image. Spark is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Problem-solving"],
+  "alignment": "Lawful Neutral"
+}

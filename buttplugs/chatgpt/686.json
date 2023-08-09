@@ -1,0 +1,15 @@
+{
+  "name": "Bolt",
+  "description": "Bolt is a shinyYellow oscilloscope-themed robot with retroConsole buttons, handDown arms and legs, and a classic screen. It is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Lawful Good"
+}

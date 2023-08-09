@@ -1,0 +1,15 @@
+{
+  "name": "Sparky",
+  "description": "Sparky is an osciloscope-themed robot who is part of the WebtrES club. With a sleek metal body resembling a cat, Sparky is equipped with four foundry arms and legs that allow it to move with agility. Its screen displays a mesmerizing snake pattern, captivating anyone who gazes upon it. To enhance its functionality, Sparky wears a pair of high-tech glasses that provide it with advanced vision capabilities. Its unique combination of traits and accessories make Sparky a valuable asset in the world of technology and exploration.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Analytical Thinking"],
+  "alignment": "Neutral"
+}

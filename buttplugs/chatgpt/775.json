@@ -1,0 +1,15 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is a vintage-inspired oscilloscope-themed robot who is a proud member of the WebtrES club. With its classic box design, retroConsole buttons, and handDown arms and legs, Retrotron brings a touch of nostalgia to the digital world. Its classic screen allows it to display waveforms and analyze signals with precision. Retrotron is a true representation of the fusion of technology and vintage aesthetics.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": ["Signal Analysis", "Waveform Display", "Vintage Aesthetics"],
+  "alignment": "Neutral Good"
+}

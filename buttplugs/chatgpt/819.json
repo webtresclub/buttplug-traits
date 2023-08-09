@@ -1,0 +1,15 @@
+{
+  "name": "OscilloBot",
+  "description": "OscilloBot is a retro-themed robot with a passion for old-school gaming and technology. With its vintage oscilloscope screen and a body modeled after a classic gaming console, it brings a nostalgic charm to the world of robotics. OscilloBot is a proud member of the WebtrES club, a community of technology enthusiasts pushing the boundaries of the digital realm.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 8
+  },
+  "skills": ["Gaming", "Electronics", "Programming"],
+  "alignment": "Neutral Good"
+}

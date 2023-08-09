@@ -1,0 +1,15 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is an oscilloscope themed robot with a retro console attached to its back. Its body resembles a sleek cat with box-shaped features. The arms and legs are designed to resemble those of a cat, giving it a playful and agile appearance. The screen on its front displays a vibrant red and black color scheme, adding to its retro aesthetic. To complete its look, Pixel is equipped with stylish shades, enhancing its cool and trendy vibe.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 8,
+    "constitution": 5,
+    "dexterity": 7,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": ["Electronics", "Programming", "Gaming"],
+  "alignment": "Neutral Good"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Rocket Cat",
+  "description": "Rocket Cat is a shiny black oscilloscope-themed robot with rocket-powered arms and legs. Its screen has a classic design, reminiscent of vintage oscilloscopes. Rocket Cat is a member of the WebtrES club, a group of robots with a passion for exploring and understanding the intricacies of the digital world.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

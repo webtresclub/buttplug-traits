@@ -1,0 +1,18 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is an osciloscope themed robot who is a proud member of the WebtrES club. With its cat-like box body and laser screen, it brings a unique charm to the club. Its ability_scores are as follows: hp 7, charisma 5, constitution 6, dexterity 8, intelligence 9, strength 3, wisdom 4. Pixel excels in its skills of analyzing waveforms and troubleshooting technical issues. Its alignment leans towards neutral, with a strong sense of curiosity and a desire to explore the digital world.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 4
+  },
+  "skills": [
+    "Waveform Analysis",
+    "Technical Troubleshooting"
+  ],
+  "alignment": "Neutral"
+}

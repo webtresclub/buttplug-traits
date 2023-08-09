@@ -1,0 +1,15 @@
+{
+  "name": "Spectrum",
+  "description": "Spectrum is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its vibrant rossoCorsa colored box, it stands out from the crowd. Its soldier-like arms and legs provide it with strength and agility, allowing it to handle any task with precision. However, its broken screen gives Spectrum a mysterious and enigmatic appearance. To add a touch of style, it wears sleek shades, adding a sense of coolness to its overall demeanor.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 5
+  },
+  "skills": ["Programming", "Electronics", "Problem-solving"],
+  "alignment": "Lawful Good"
+}

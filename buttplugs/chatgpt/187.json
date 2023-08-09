@@ -1,0 +1,15 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is an oscilloscope-themed robot with a classic box design and retro console buttons. It is equipped with soldier-like arms and legs for enhanced durability and maneuverability. The screen displays a captivating red and black pattern, adding a touch of nostalgia. Additionally, Retrotron is fitted with a protective helmet as an extra addon, ensuring its safety during operations.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 5
+  },
+  "skills": ["Electronics", "Programming", "Analytical Thinking"],
+  "alignment": "Lawful Good"
+}

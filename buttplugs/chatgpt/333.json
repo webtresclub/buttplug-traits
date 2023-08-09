@@ -1,0 +1,21 @@
+{
+  "name": "Lasertron",
+  "description": "Lasertron is an oscilloscope themed robot who is a proud member of the WebtrES club. With its forest green box, soldier buttons, arms and legs in the hand down position, and a laser screen, Lasertron stands out among its robotic peers. This unique combination of traits makes Lasertron a formidable and versatile member of the club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Problem-solving",
+    "Data analysis",
+    "Communication"
+  ],
+  "alignment": "Lawful Good"
+}

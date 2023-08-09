@@ -1,0 +1,20 @@
+{
+  "name": "Hex",
+  "description": "Hex is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its forest green box, soldier buttons, foundry arms and legs, and a laser screen, this robot is a formidable force to be reckoned with. Hex thrives on precise measurements and calculations, making it an invaluable asset in the digital realm.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Data Analysis",
+    "Electronics",
+    "Problem Solving"
+  ],
+  "alignment": "Neutral Good"
+}

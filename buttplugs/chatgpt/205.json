@@ -1,0 +1,15 @@
+{
+  "name": "Retrotron 3000",
+  "description": "Retrotron 3000 is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its cat-like box body, soldier arms and legs, and a screen displaying a mesmerizing red and black color pattern, Retrotron 3000 is a true embodiment of nostalgia and technological prowess. Equipped with a pair of stylish glasses as an add-on, this robot stands out among its peers.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 7,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Analytical Thinking"],
+  "alignment": "Lawful Neutral"
+}

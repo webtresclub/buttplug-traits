@@ -1,0 +1,15 @@
+{
+  "name": "Analogus",
+  "description": "Analogus is a vintage-inspired oscilloscope robot that belongs to the prestigious WebtrES club. With its retro console box and buttons, it exudes a nostalgic charm. Its arms and legs resemble those of a cat, giving it a playful and agile appearance. The screen, shaped like a cat, adds a touch of whimsy to Analogus' design. This robot is not just a visual delight but also a master of data interpretation and analysis.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Data Analysis", "Programming", "Electronics"],
+  "alignment": "Lawful Good"
+}

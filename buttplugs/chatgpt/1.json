@@ -1,0 +1,15 @@
+{
+  "name": "LaserBox",
+  "description": "LaserBox is a robotic oscilloscope with a shiny yellow box body adorned with cat-themed buttons. Its arms and legs are designed to resemble cats, adding a touch of playfulness to its appearance. The most striking feature of LaserBox is its laser screen, which displays vibrant and precise waveforms. LaserBox is a proud member of the WebtrES club, dedicated to exploring the depths of the digital realm.",
+  "ability_scores": {
+    "hp": 5,
+    "charisma": 7,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 8
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

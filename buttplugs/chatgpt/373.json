@@ -1,0 +1,15 @@
+{
+  "name": "Crimson",
+  "description": "Crimson is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its striking red body resembling the vibrant shade of rossoCorsa, Crimson stands out among the crowd. Its classic buttons evoke a sense of nostalgia, harkening back to the golden age of technology. Sporting arms and legs shaped like a sleek cat, Crimson possesses both grace and agility. Its screen displays a mesmerizing combination of red and black, capturing attention with its captivating visual display.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Neutral Good"
+}

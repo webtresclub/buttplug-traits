@@ -1,0 +1,19 @@
+{
+  "name": "RetroByte",
+  "description": "RetroByte is a vintage-inspired oscilloscope-themed robot. Its design features a classic box-shaped body with buttons, arms, and legs that resemble a cat. The screen on its front also has a feline resemblance, displaying information with a touch of nostalgia. To add a dash of style, RetroByte is equipped with trendy shades as its special accessory.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Data Analysis"
+  ],
+  "alignment": "Lawful Neutral"
+}

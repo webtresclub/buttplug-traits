@@ -1,0 +1,15 @@
+{
+  "name": "RetroScope",
+  "description": "RetroScope is a vintage-inspired oscilloscope-themed robot. With its classic box-shaped body resembling a cat, it brings a unique blend of nostalgia and technology. Equipped with retro console buttons and classic arms and legs, RetroScope combines the charm of the past with the advancements of the future. Its screen displays a captivating game of Snake, further showcasing its connection to the world of vintage gaming.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

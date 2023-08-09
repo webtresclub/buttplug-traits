@@ -1,0 +1,15 @@
+{
+  "name": "Circuitus",
+  "description": "Circuitus is an oscilloscope-themed robot who is an esteemed member of the WebtrES club. With its box-like structure, cat-shaped buttons, and flexible arms and legs resembling a feline, Circuitus is a unique and captivating member of the club. Its screen may be broken, but that doesn't stop Circuitus from functioning at its best. In fact, it has adapted by wearing a helmet as an add-on for protection and enhanced capabilities.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Programming", "Problem-solving"],
+  "alignment": "Lawful Neutral"
+}

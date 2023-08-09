@@ -1,0 +1,15 @@
+{
+  "name": "Circuittron",
+  "description": "Circuittron is an oscilloscope themed robot who is a member of the WebtrES club. With its forest green box body, retro console buttons, soldier-like arms and legs, and a red and black screen, Circuittron is a unique and eye-catching member of the club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 10,
+    "strength": 6,
+    "wisdom": 9
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Good"
+}

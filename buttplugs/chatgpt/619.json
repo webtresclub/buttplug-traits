@@ -1,0 +1,15 @@
+{
+  "name": "Circuitron",
+  "description": "Circuitron is a retro-themed oscilloscope robot belonging to the WebtrES club. With a box-like structure adorned with classic arms and legs, Circuitron harks back to the golden age of gaming consoles. Its vibrant red and black screen adds a touch of nostalgia to its overall appearance.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

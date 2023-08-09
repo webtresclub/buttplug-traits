@@ -1,0 +1,19 @@
+{
+  "name": "Pulse",
+  "description": "Pulse is an oscilloscope-themed robot and a proud member of the WebtrES club. With its classic box shape and buttons, it carries a sense of nostalgia for the early days of technology. Its arms and legs are designed in a classic style, providing it with both functionality and a sense of charm. The standout feature of Pulse is its laser screen, which enables it to display precise and detailed waveforms with incredible accuracy.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Data Analysis"
+  ],
+  "alignment": "Lawful Neutral"
+}

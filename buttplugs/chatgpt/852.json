@@ -1,0 +1,20 @@
+{
+  "name": "Volt",
+  "description": "Volt is an oscilloscope-themed robot with a classic box body, adorned with stylish shades. Its buttons resemble cute cat faces and its arms and legs are designed to be in a hand-down position. The screen displays a striking combination of red and black, giving Volt a unique and eye-catching appearance. It is a proud member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 6
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Data Analysis",
+    "Troubleshooting"
+  ],
+  "alignment": "Neutral Good"
+}

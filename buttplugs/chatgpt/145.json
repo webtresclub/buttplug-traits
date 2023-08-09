@@ -1,0 +1,15 @@
+{
+  "name": "Lasertron",
+  "description": "Lasertron is a shinyYellow oscilloscope-themed robot with classic arms and legs, featuring a cat-shaped button interface. Its built-in laser screen makes it a powerful and versatile member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 9
+  },
+  "skills": ["Programming", "Electronics", "Data analysis"],
+  "alignment": "Lawful Good"
+}

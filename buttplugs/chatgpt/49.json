@@ -1,0 +1,15 @@
+{
+  "name": "Pixel",
+  "description": "Pixel is an oscilloscope-themed robot known for its impeccable style and unwavering loyalty. With its classic box-shaped body and soldier-like demeanor, Pixel is a formidable companion in the world of WebtrES club. Its vibrant screen displays a cute cat, adding a touch of charm to its overall appearance. To complete its look, Pixel is equipped with sleek shades that give it a cool and mysterious vibe.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Analyzing waveforms", "Combat tactics"],
+  "alignment": "Lawful Good"
+}

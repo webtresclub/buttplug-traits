@@ -1,0 +1,20 @@
+{
+  "name": "Catalyst",
+  "description": "Catalyst is an oscilloscope-themed robot who is an integral part of the WebtrES club. With its unique combination of traits, Catalyst is a formidable companion in any technological endeavor.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Analytical Thinking",
+    "Problem Solving"
+  ],
+  "alignment": "Neutral"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Circuit Breaker",
+  "description": "Circuit Breaker is a shiny black oscilloscope-themed robot with classic buttons, soldier arms and legs, a red and black screen, and a sleek helmet add-on. It is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": ["Electronics", "Programming", "Problem Solving"],
+  "alignment": "Lawful Neutral"
+}

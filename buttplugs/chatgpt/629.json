@@ -1,0 +1,15 @@
+{
+  "name": "Rusty",
+  "description": "Rusty is an oscilloscope-themed robot who is part of the WebtrES club. With a classic box and buttons design, this robot has a sturdy soldier-like arms and legs. However, its screen is unfortunately broken, adding a touch of uniqueness to its appearance.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 3,
+    "constitution": 7,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 5
+  },
+  "skills": ["Programming", "Electronics", "Troubleshooting"],
+  "alignment": "Neutral"
+}

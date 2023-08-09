@@ -1,0 +1,15 @@
+{
+  "name": "Binary Blaster",
+  "description": "Binary Blaster is a sleek and sophisticated oscilloscope-themed robot, with a shiny black exterior. Equipped with soldier buttons, its arms and legs are positioned in a confident hand-down stance. Its screen emits a powerful laser, making it a formidable force to be reckoned with.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 3,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 4
+  },
+  "skills": ["Engineering", "Programming", "Combat"],
+  "alignment": "Neutral"
+}

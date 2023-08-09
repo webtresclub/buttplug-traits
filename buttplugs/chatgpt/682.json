@@ -1,0 +1,18 @@
+{
+  "name": "Rocketbox",
+  "description": "Rocketbox is an oscilloscope-themed robot and a member of the WebtrES club. With its box-shaped body resembling a cat, Rocketbox is a unique and captivating addition to the group. Its classic buttons add a touch of nostalgia, representing the retro charm of oscilloscopes from the past. Equipped with rocket arms and legs, Rocketbox possesses incredible speed and agility, making it an asset in any situation. However, its screen is unfortunately broken, adding an element of vulnerability to its appearance. To protect itself, Rocketbox wears a stylish helmet add-on, ensuring its safety during missions. With its distinct traits and dedication to the WebtrES club, Rocketbox contributes to the team's success in the digital world.",
+
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 4
+  },
+
+  "skills": ["Programming", "Electronics", "Agility", "Problem-solving"],
+
+  "alignment": "Lawful Neutral"
+}

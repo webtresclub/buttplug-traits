@@ -1,0 +1,15 @@
+{
+  "name": "Spectra",
+  "description": "Spectra is an oscilloscope-themed robot that was designed and built by the brilliant engineers of the WebtrES club. With a unique combination of traits, Spectra stands out as a one-of-a-kind creation in the world of robots.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": ["Engineering", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

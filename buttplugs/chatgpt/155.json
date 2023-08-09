@@ -1,0 +1,15 @@
+{
+  "name": "Blip",
+  "description": "Blip is a charming oscilloscope-themed robot with a retro console box body, retro console buttons, rocket arms and legs, and a classic screen. Blip is a member of the WebtrES club, a group of robots with a passion for exploring the digital world.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Good"
+}

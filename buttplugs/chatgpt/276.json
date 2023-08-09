@@ -1,0 +1,15 @@
+{
+  "name": "Volttron",
+  "description": "Volttron is a retro-inspired oscilloscope-themed robot that is part of the WebtrES club. With its shiny yellow box and red-black screen, it captures the essence of nostalgic technology. Equipped with soldier-like arms and legs, it stands tall and sturdy. Its retro console buttons allow for precise control and analysis. To protect itself, Volttron is always adorned with a stylish helmet. With its cutting-edge technology and vintage charm, Volttron is ready to take on any electronic challenge.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Data Analysis", "Problem Solving"],
+  "alignment": "Lawful Neutral"
+}

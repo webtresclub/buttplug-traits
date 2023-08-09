@@ -1,0 +1,15 @@
+{
+  "name": "RetroCat",
+  "description": "RetroCat is a unique oscilloscope-themed robot with a charming and nostalgic personality. With its state-of-the-art laser screen, it brings a touch of classic gaming to the digital world. This special robot is a proud member of the WebtrES club, where it showcases its amazing abilities and skills.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 8,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": ["Gaming", "Electronics", "Programming"],
+  "alignment": "Lawful Good"
+}

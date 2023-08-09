@@ -1,0 +1,15 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is a vintage-inspired oscilloscope-themed robot with a charismatic personality. Equipped with classic box, buttons, arms and legs, and a screen displaying a cute cat, this robot stands out from the crowd. To add a touch of sophistication, Retrotron also has a pair of stylish glasses as its special addon. It is a proud member of the WebtrES club, where it unleashes its intelligence and charms others with its retro appeal.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 9,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral Good"
+}

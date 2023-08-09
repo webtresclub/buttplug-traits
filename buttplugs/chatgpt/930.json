@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is an oscilloscope-themed robot with forest green box, classic buttons, classic arms and legs, a broken screen, and stylish shades as an addon. It is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 5,
+    "dexterity": 6,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Troubleshooting"],
+  "alignment": "Lawful Neutral"
+}

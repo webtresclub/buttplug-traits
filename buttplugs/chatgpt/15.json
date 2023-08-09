@@ -1,0 +1,15 @@
+{
+  "name": "Rocket Racer",
+  "description": "Rocket Racer is an oscilloscope-themed robot who is part of the WebtrES club. With a sleek body painted in the vibrant color of Rosso Corsa and sporting a classic screen, Rocket Racer stands out among its robotic peers. Its arms and legs are equipped with powerful rocket thrusters, allowing it to move swiftly and gracefully. Adorned with stylish shades, Rocket Racer exudes a cool and confident aura. As a member of the WebtrES club, Rocket Racer is skilled in analyzing and interpreting data, making it an invaluable asset in any technological endeavor.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 9,
+    "intelligence": 10,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Data Analysis", "Technology", "Rocket Propulsion"],
+  "alignment": "Neutral Good"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Vincent",
+  "description": "Vincent is a robot oscilloscope named after its vibrant red color, reminiscent of the iconic Ferrari Rosso Corsa. With its box-like structure and soldier-themed buttons, Vincent has a strong and sturdy appearance. However, its screen is unfortunately broken, but it compensates for this with a pair of stylish glasses that it wears. Vincent is a proud member of the WebtrES club, standing out with its unique traits and abilities.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": ["Analytical Thinking", "Electronics", "Data Interpretation"],
+  "alignment": "Lawful Neutral"
+}

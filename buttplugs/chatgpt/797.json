@@ -1,0 +1,15 @@
+{
+  "name": "Retrotron",
+  "description": "Retrotron is a vintage oscilloscope-themed robot belonging to the WebtrES club. With its classic box-shaped body, soldier-like arms and legs, and a laser screen, Retrotron is a throwback to the golden age of technology. Its retro console buttons add a touch of nostalgia and style to its appearance. As a member of the WebtrES club, Retrotron is equipped with advanced abilities and skills, making it a valuable asset for any digital endeavor.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

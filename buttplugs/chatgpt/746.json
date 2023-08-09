@@ -1,0 +1,15 @@
+{
+  "name": "Rusty",
+  "description": "Rusty is an oscilloscope-themed robot with a classic screen, armed with foundry arms and legs. It is a member of the WebtrES club and is known for its soldier-like demeanor. Rusty also wears stylish shades as an add-on, giving it a cool and mysterious look.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 4,
+    "intelligence": 6,
+    "strength": 6,
+    "wisdom": 4
+  },
+  "skills": ["Electronics", "Combat Tactics", "Web Development"],
+  "alignment": "Lawful Neutral"
+}

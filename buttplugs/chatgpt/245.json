@@ -1,0 +1,15 @@
+{
+  "name": "Spark",
+  "description": "Spark is a shiny black oscilloscope robot with cat-shaped buttons. Its arms and legs are made from sturdy foundry materials, giving it a strong and resilient build. However, its screen is unfortunately broken and in need of repair. Despite this setback, Spark remains an integral member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 6
+  },
+  "skills": ["Repair", "Programming", "Analytical Thinking"],
+  "alignment": "Lawful Good"
+}

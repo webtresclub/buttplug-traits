@@ -1,0 +1,15 @@
+{
+  "name": "Spark",
+  "description": "Spark is a shiny black oscilloscope-themed robot with a cat button, arms and legs in a hand-down position, and a screen shaped like a snake. It is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 3,
+    "constitution": 8,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Neutral"
+}

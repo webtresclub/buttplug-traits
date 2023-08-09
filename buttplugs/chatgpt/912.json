@@ -1,0 +1,20 @@
+{
+  "name": "RetroCat Soldier",
+  "description": "RetroCat Soldier is a vintage oscilloscope-themed robot who is a proud member of the WebtrES club. With its retro console box, soldier buttons, cat arms and legs, and a laser screen, this unique robot stands out from the crowd.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Mechanical Engineering",
+    "Teamwork"
+  ],
+  "alignment": "Lawful Good"
+}

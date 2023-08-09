@@ -1,0 +1,15 @@
+{
+  "name": "RetroCat",
+  "description": "RetroCat is a shiny black oscilloscope-themed robot with classic buttons and hand-down arms and legs. Its screen displays an adorable cat image. This robotic feline is a proud member of the WebtrES club, ready to bring joy and entertainment to all its members.",
+  "ability_scores": {
+    "hp": 5,
+    "charisma": 6,
+    "constitution": 7,
+    "dexterity": 4,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 5
+  },
+  "skills": ["Programming", "Electronics", "Web Design"],
+  "alignment": "Neutral Good"
+}

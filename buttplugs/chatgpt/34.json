@@ -1,0 +1,21 @@
+{
+  "name": "S.C.A.L.E.R.",
+  "description": "S.C.A.L.E.R. is an oscilloscope-themed robot with an orange box body, cat buttons, soldier arms and legs, and a broken screen. It is a member of the WebtrES club, a community of electronic enthusiasts.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 3,
+    "intelligence": 8,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Troubleshooting",
+    "Soldering",
+    "Analytical Thinking"
+  ],
+  "alignment": "Neutral Good"
+}

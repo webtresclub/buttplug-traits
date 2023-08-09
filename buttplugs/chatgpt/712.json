@@ -1,0 +1,15 @@
+{
+  "name": "RetroScope",
+  "description": "RetroScope is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its vibrant orange box and classic console buttons, it brings a touch of nostalgia to the digital world. Equipped with its trusty hand-down arms and legs, RetroScope is always ready to assist in any technical endeavor. Its classic screen provides a clear and precise display, while the stylish glasses add a touch of sophistication to its appearance.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 8
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

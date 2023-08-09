@@ -1,0 +1,15 @@
+{
+  "name": "Volt",
+  "description": "Volt is a forest green oscilloscope-themed robot who is part of the WebtrES club. With their classic buttons and soldier-like arms and legs, Volt is a formidable machine. Their laser screen provides precise and powerful visual output, making them a valuable asset in various technical tasks.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 6,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Lawful Neutral"
+}

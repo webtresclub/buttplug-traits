@@ -1,0 +1,15 @@
+{
+  "name": "Circuit",
+  "description": "Circuit is an oscilloscope-themed robot who is part of the WebtrES club. Despite a broken screen, Circuit utilizes its soldier-like buttons and red-colored box, known as 'rossoCorsa', to provide accurate readings and deliver powerful performances. With its handDown arms and legs, Circuit demonstrates precision and finesse in all its actions.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Neutral Good"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "RetroScope",
+  "description": "RetroScope is a vintage-inspired oscilloscope-themed robot who is a proud member of the WebtrES club. With its vibrant orange box and retroConsole buttons, it exudes a nostalgic charm. Equipped with rocket arms and legs, RetroScope is known for its agility and speed. Although its screen is broken, it doesn't hinder its ability to analyze electronic signals. As an additional feature, it has a helmet addon for enhanced protection. RetroScope has a quirky personality that resonates with its fellow club members.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 7
+  },
+  "skills": ["Electronics", "Data Analysis", "Agility"],
+  "alignment": "Neutral Good"
+}

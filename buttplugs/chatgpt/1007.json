@@ -1,0 +1,15 @@
+{
+  "name": "Retro Rosso",
+  "description": "Retro Rosso is a charming oscilloscope-themed robot. With its vibrant red color reminiscent of the classic Ferrari Rosso Corsa, this robot is a true head-turner. Equipped with a retro console for buttons and a pair of arms and legs designed in a hand-down style, Retro Rosso is a perfect blend of vintage aesthetics and modern technology. Its screen displays the iconic game of Snake, adding a touch of nostalgia to its overall design. Retro Rosso is a proud member of the WebtrES club, where it showcases its unique oscillating abilities and contributes to the advancement of the digital realm.",
+  "ability_scores": {
+    "hp": 5,
+    "charisma": 8,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": ["Coding", "Electronics", "Problem-solving"],
+  "alignment": "Lawful Good"
+}

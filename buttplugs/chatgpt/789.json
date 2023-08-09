@@ -1,0 +1,15 @@
+{
+  "name": "Laserbox",
+  "description": "Laserbox is a powerful oscilloscope-themed robot, equipped with laser technology and designed to be a part of the prestigious WebtrES club. With its cat-like agility and soldier-like precision, Laserbox is a formidable force in both combat and data analysis.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 9,
+    "intelligence": 6,
+    "strength": 5,
+    "wisdom": 5
+  },
+  "skills": ["Data analysis", "Combat tactics", "Precision targeting"],
+  "alignment": "Neutral"
+}

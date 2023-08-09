@@ -1,0 +1,20 @@
+{
+  "name": "Rocketbox",
+  "description": "Rocketbox is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its shiny yellow box and classic buttons, Rocketbox stands out from the crowd. Its rocket arms and legs give it incredible speed and agility, making it a formidable force in any situation. However, its broken screen is a constant reminder of the battles it has faced. Rocketbox compensates for this limitation with its trusty helmet addon, which enhances its intelligence and allows it to analyze complex data with ease.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 7,
+    "dexterity": 9,
+    "intelligence": 10,
+    "strength": 6,
+    "wisdom": 4
+  },
+  "skills": [
+    "Data Analysis",
+    "Agility",
+    "Problem-solving",
+    "Rocket propulsion"
+  ],
+  "alignment": "Lawful Good"
+}

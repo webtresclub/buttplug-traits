@@ -1,0 +1,15 @@
+{
+  "name": "RetroBot",
+  "description": "RetroBot is an oscilloscope-themed robot who is part of the WebtrES club. With its classic box-shaped soldier design, RetroBot exudes a nostalgic charm. Its retro console buttons and classic arms and legs add to its vintage appeal. Despite its broken screen, RetroBot remains a formidable member of the club, utilizing its unique abilities and skills to contribute to the team's success. With a blend of charisma, constitution, dexterity, intelligence, strength, and wisdom, RetroBot is a well-rounded companion. Its alignment reflects its dedication to justice and fairness, always fighting for what is right.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 7,
+    "strength": 6,
+    "wisdom": 6
+  },
+  "skills": [],
+  "alignment": "Lawful Good"
+}

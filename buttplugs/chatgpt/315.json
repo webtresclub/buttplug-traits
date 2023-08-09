@@ -1,0 +1,15 @@
+{
+  "name": "Circuitus",
+  "description": "Circuitus is an oscilloscope themed robot who is part of the WebtrES club. With a resilient and charismatic personality, Circuitus overcomes challenges with its unique set of abilities. Its broken screen serves as a reminder of the battles it has fought as a soldier in the digital realm. Equipped with sturdy box armor and nimble cat-shaped buttons, Circuitus is ready to tackle any task that comes its way.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 7,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 4,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Leadership", "Problem-solving"],
+  "alignment": "Lawful Neutral"
+}

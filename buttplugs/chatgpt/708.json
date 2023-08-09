@@ -1,0 +1,15 @@
+{
+  "name": "Circuit Breaker",
+  "description": "Circuit Breaker is a classic oscilloscope-themed robot with a soldier's mindset. Its box, buttons, and arms and legs reflect the classic design, exuding a nostalgic charm. However, its screen is broken, adding a touch of mystery to its appearance. Circuit Breaker is a member of the WebtrES club, where it showcases its unique abilities and skills.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 7,
+    "wisdom": 6
+  },
+  "skills": ["Programming", "Electronics", "Strategy", "Problem Solving"],
+  "alignment": "Lawful Neutral"
+}

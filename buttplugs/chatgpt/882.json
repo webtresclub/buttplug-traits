@@ -1,0 +1,15 @@
+{
+  "name": "Beeper",
+  "description": "Beeper is a lively oscilloscope-themed robot with a shiny yellow box body adorned with retro console buttons. Its arms and legs are designed to resemble playful cats, adding a touch of whimsy to its appearance. The screen of this unique robot features a classic snake game, bringing a nostalgic charm to its interactive capabilities.",
+  "ability_scores": {
+    "hp": 6,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 8,
+    "intelligence": 9,
+    "strength": 2,
+    "wisdom": 5
+  },
+  "skills": ["Electronics", "Programming", "Problem-Solving"],
+  "alignment": "Neutral Good"
+}

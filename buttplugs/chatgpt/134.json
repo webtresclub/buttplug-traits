@@ -1,0 +1,15 @@
+{
+  "name": "Blitz",
+  "description": "Blitz is a shiny yellow oscilloscope-themed robot with a soldier button, rocket arms and legs, a snake screen, and a helmet addon. It is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 5
+  },
+  "skills": ["Programming", "Electronics", "Combat"],
+  "alignment": "Lawful Neutral"
+}

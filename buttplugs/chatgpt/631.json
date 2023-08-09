@@ -1,0 +1,19 @@
+{
+  "name": "Laserbox",
+  "description": "Laserbox is an oscilloscope-themed robot who is a proud member of the WebtrES club. With its vibrant orange box body and cat-shaped buttons, Laserbox stands tall with its soldier-like arms and legs. Its screen emits a powerful laser beam, making it a formidable presence in any technological battle.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 6
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Data Analysis"
+  ],
+  "alignment": "Neutral"
+}

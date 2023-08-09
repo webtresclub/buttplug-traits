@@ -1,0 +1,20 @@
+{
+  "name": "Voltrex",
+  "description": "Voltrex is a classic oscilloscope-themed robot who is a proud member of the WebtrES club. With its sturdy box-like structure and soldier-like buttons, it is equipped with dexterous hand-down arms and legs, allowing it to perform intricate tasks with precision. Its classic screen display adds a touch of nostalgia to its overall appearance.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 4,
+    "constitution": 7,
+    "dexterity": 9,
+    "intelligence": 6,
+    "strength": 5,
+    "wisdom": 6
+  },
+  "skills": [
+    "Electronics",
+    "Programming",
+    "Analytical Thinking",
+    "Precision Manipulation"
+  ],
+  "alignment": "Lawful Neutral"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Retro Soldier",
+  "description": "Retro Soldier is an oscilloscope-themed robot who is part of the WebtrES club. With its unique blend of vintage console aesthetics and advanced technology, Retro Soldier stands out among its robotic peers. It is equipped with foundry arms and legs that provide exceptional strength and durability. Its box-like body houses a laser screen, which allows it to project images and data with precision. Retro Soldier possesses a charismatic charm that helps it navigate social interactions with ease. Its constitution and dexterity enable it to withstand physical challenges and move with agility. The robot's intelligence and wisdom make it a valuable asset when it comes to problem-solving and decision-making. With its well-rounded skill set and alignment, Retro Soldier is a reliable ally and a force to be reckoned with in the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 7,
+    "constitution": 9,
+    "dexterity": 6,
+    "intelligence": 8,
+    "strength": 8,
+    "wisdom": 7
+  },
+  "skills": [],
+  "alignment": "Lawful Good"
+}

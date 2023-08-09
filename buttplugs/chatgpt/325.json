@@ -1,0 +1,15 @@
+{
+  "name": "Pulsewave",
+  "description": "Pulsewave is an oscilloscope-themed robot belonging to the WebtrES club. With a sleek and futuristic design, Pulsewave combines the functionality of an oscilloscope with advanced robotic capabilities. Its cat-like box frame houses a powerful laser screen and is equipped with durable soldier buttons for precise control. The arms and legs, known as Foundry, are meticulously engineered for maximum flexibility and strength. Pulsewave is an indispensable member of the WebtrES club, aiding in their technological pursuits and solving complex problems with its impressive abilities.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 5,
+    "constitution": 8,
+    "dexterity": 6,
+    "intelligence": 9,
+    "strength": 7,
+    "wisdom": 8
+  },
+  "skills": ["Engineering", "Data Analysis", "Problem Solving", "Precision Control"],
+  "alignment": "Lawful Neutral"
+}

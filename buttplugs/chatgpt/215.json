@@ -1,0 +1,15 @@
+{
+  "name": "Spark",
+  "description": "Spark is an oscilloscope-themed robot with a classic box design. It has rocket-powered arms and legs that give it incredible agility and speed. Its screen is equipped with a powerful laser, capable of emitting precise beams for various purposes. Spark is a proud member of the WebtrES club, dedicated to exploring the vast realms of the internet and pushing the boundaries of technology.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 5,
+    "constitution": 6,
+    "dexterity": 9,
+    "intelligence": 10,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Web Development"],
+  "alignment": "Lawful Neutral"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Retro Scope",
+  "description": "Retro Scope is an oscilloscope-themed robot with a shiny black box body, classic arms and legs, and a retro console for buttons. Its screen is designed like the classic game 'Snake', and it even wears trendy shades as an add-on. Retro Scope is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 7,
+    "charisma": 4,
+    "constitution": 6,
+    "dexterity": 5,
+    "intelligence": 9,
+    "strength": 3,
+    "wisdom": 7
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Problem Solving"
+  ],
+  "alignment": "Lawful Neutral"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Spark",
+  "description": "Spark is a shinyYellow oscilloscope-themed robot with rocket arms and legs. Its screen is redBlack and it has a cute cat button. Spark is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 4,
+    "charisma": 6,
+    "constitution": 5,
+    "dexterity": 7,
+    "intelligence": 8,
+    "strength": 3,
+    "wisdom": 6
+  },
+  "skills": [
+    "Programming",
+    "Electronics",
+    "Circuit Troubleshooting",
+    "Data Analysis"
+  ],
+  "alignment": "Lawful Good"
+}

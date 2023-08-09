@@ -1,0 +1,15 @@
+{
+  "name": "Circuitron",
+  "description": "Circuitron is an oscilloscope-themed robot and a proud member of the WebtrES club. With its vibrant red body and black screen, Circuitron stands out as a true technological marvel. Its retro console buttons and hand-down arms and legs give it a nostalgic charm, reminiscent of classic gaming consoles. Circuitron is always ready for action, equipped with its trusty red helmet addon that enhances its abilities and protects it during missions. With a perfect blend of style and functionality, Circuitron is an invaluable asset to the WebtrES club.",
+  "ability_scores": {
+    "hp": 9,
+    "charisma": 6,
+    "constitution": 8,
+    "dexterity": 7,
+    "intelligence": 10,
+    "strength": 5,
+    "wisdom": 8
+  },
+  "skills": ["Electronics", "Programming", "Problem Solving"],
+  "alignment": "Lawful Good"
+}

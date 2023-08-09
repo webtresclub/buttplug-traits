@@ -1,0 +1,15 @@
+{
+  "name": "Jazzy",
+  "description": "Jazzy is a shinyYellow oscilloscope-themed robot with classic buttons, cat arms and legs, a classic screen, and stylish shades as an addon. It is a member of the WebtrES club.",
+  "ability_scores": {
+    "hp": 8,
+    "charisma": 7,
+    "constitution": 6,
+    "dexterity": 4,
+    "intelligence": 9,
+    "strength": 5,
+    "wisdom": 7
+  },
+  "skills": ["Programming", "Electronics", "Data Analysis"],
+  "alignment": "Neutral Good"
+}
