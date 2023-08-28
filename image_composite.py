@@ -53,9 +53,6 @@ combination = random.shuffle(combinations)
 # Limitar a X combinaciones
 combinations = combinations[:1024]
 
-# Load the gradient image
-gradient_image_path = os.path.join(root_dir, "Gradient.png")
-gradient_image = Image.open(gradient_image_path).convert('RGBA')
 
 
 # def generate_background_story(properties):
@@ -99,6 +96,25 @@ gradient_image = Image.open(gradient_image_path).convert('RGBA')
 #     except Exception as e:
 #         print("Error while generating background story:", e)
 #         return ""  # Return an empty string in case of error
+
+def random_color():
+    """Generate a random RGB color."""
+    return (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
+
+
+def generate_gradient(width, height, color1, color2):
+    """Generate a horizontal gradient image of the given size."""
+    
+    # Create an empty image
+    img = np.zeros((height, width, 3), dtype=np.uint8)
+    
+    # Fill the image with a gradient
+    for y in range(height):
+        alpha = y / (height - 1)
+        color = (1 - alpha) * color1 + alpha * color2
+        img[y, :] = color
+    
+    return img
 
 
 def generate_properties(combination, idx):
@@ -152,21 +168,22 @@ for idx, combination in enumerate(combinations):
     # properties["description"] = background_story
 
     # Save the properties to a JSON file
-    with open(os.path.join(frames_dir, f'{idx+1}.json'), 'w') as json_file:
-        json.dump(properties, json_file, indent=2)
+    #with open(os.path.join(frames_dir, f'{idx+1}.json'), 'w') as json_file:
+    #    json.dump(properties, json_file, indent=2)
 
+    img_array = generate_gradient(1280, 1280, np.array(random_color()), np.array(random_color()))
     for i in range(1, 17):
         # Create a new image base with the background color
-        base_image = Image.new('RGBA', (69*4, 69*4), bg_color)
-
+        base_image = Image.fromarray(img_array).convert('RGBA')
+        
         # Superimpose the gradient image over the base image
-        base_image = Image.alpha_composite(base_image, gradient_image)
+        #base_image = Image.alpha_composite(base_image, gradient_image)
 
         for subgroup in combination:
             frame_file = os.path.join(subgroup, f"Frame{i}.png")
             if os.path.isfile(frame_file):
                 # Open the image and convert it to a PIL Image object
-                new_layer = Image.open(frame_file).convert('RGBA')
+                new_layer = Image.open(frame_file).convert('RGBA').resize((1280,1280), Image.Resampling.NEAREST)
                 base_image = Image.alpha_composite(base_image, new_layer)
 
         # Convert the PIL Image object into a numpy array for use with imageio
