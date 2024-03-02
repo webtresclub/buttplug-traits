@@ -1,0 +1,23 @@
+{
+  "description": "TODO: Use ChatGPT to generate a new description.",
+  "image": "ipfs://bafybeih3p3a57ky54zewluyhihnif3nhcfr6uctp7cwgikqzuuongcykgu/52.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ],
+  "name": "Retrotron-3000"
+}
