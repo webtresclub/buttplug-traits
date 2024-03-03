@@ -1,0 +1,76 @@
+import os
+import imageio
+import numpy as np
+from PIL import Image
+import json
+
+f = open('basedata-raw.json')
+ 
+# returns JSON object as 
+# a dictionary
+combinations = json.load(f)
+
+def generate_gradient(width, height, color1, color2):
+    """Generate a horizontal gradient image of the given size."""
+    
+    # Create an empty image
+    img = np.zeros((height, width, 3), dtype=np.uint8)
+    
+    # Fill the image with a gradient
+    for y in range(height):
+        alpha = y / (height - 1)
+        color = (1 - alpha) * color1 + alpha * color2
+        img[y, :] = color
+    
+    return img
+
+
+
+root_dir = "layers"  # directorio donde están las capas
+frames_dir = os.path.join("buttplugs", "images") # directorio de salida
+os.makedirs(frames_dir, exist_ok=True)
+
+layers = [
+    { 'attr': 'Box', 'value': os.path.join('layers', '01 - Box') },
+    { 'attr': 'Buttons', 'value': os.path.join('layers', '02 - Buttons') },
+    { 'attr': 'ArmsAndLegs', 'value': os.path.join('layers', '03 - ArmsAndLegs') },
+    { 'attr': 'Screen', 'value': os.path.join('layers', '04 - Screen') },
+    { 'attr': 'Addon', 'value': os.path.join('layers', '05 - Addons') }
+]
+
+for idx, combination in combinations.items():
+    ## idx start from 0 but the collection start from 1
+    idx = int(idx) + 1
+    gif_frames = []
+
+    print(idx,"/ 1024")
+    # Comprueba si alguna de las caras se llama "laser"
+    has_laser_face = combination['attributes']['Screen'] == 'laser'
+    img_array = generate_gradient(1280, 1280, np.array(combination['gradient_start']), np.array(combination['gradient_end']))
+
+    for i in range(1, 17):
+        # Create a new image base with the background color
+        base_image = Image.fromarray(img_array).convert('RGBA')
+        
+        # Superimpose the gradient image over the base image
+        #base_image = Image.alpha_composite(base_image, gradient_image)
+
+        for layerN in range(0, 5):
+            attr = layers[layerN]['attr']
+            val = layers[layerN]['value']
+
+            if not attr in combination['attributes']:
+                continue
+            frame_file = os.path.join(val, combination['attributes'][attr], f"Frame{i}.png")
+            # Open the image and convert it to a PIL Image object
+            new_layer = Image.open(frame_file).convert('RGBA').resize((1280,1280), Image.Resampling.NEAREST)
+            base_image = Image.alpha_composite(base_image, new_layer)
+
+        # Convert the PIL Image object into a numpy array for use with imageio
+        numpy_image = np.array(base_image)
+        gif_frames.append(numpy_image)
+
+    filename = f'000000{idx}.gif'[-8:]
+    # Create the GIF from the frames
+    imageio.mimsave(os.path.join(
+        frames_dir, filename), gif_frames, duration=0.1, loop=0)
