@@ -1,8 +1,6 @@
 import os
 import random
-import imageio
 import numpy as np
-from PIL import Image
 from itertools import product
 import json
 # import openai  # Import the OpenAI library
@@ -53,54 +51,9 @@ combination = random.shuffle(combinations)
 # Limitar a X combinaciones
 combinations = combinations[:1024]
 
-
-
-# def generate_background_story(properties):
-#     try:
-#         # Create a prompt for GPT-3.5 based on the NFT properties
-#         traits = ""
-#         for attribute in properties["attributes"]:
-#             # Convert to lowercase
-#             trait_type = attribute["trait_type"].lower()
-#             traits += f"{trait_type}: {attribute['value']}\n"
-
-#         # Use the GPT-3.5 API to generate the background story
-#         response = openai.ChatCompletion.create(
-#             model="gpt-3.5-turbo",
-#             messages=[
-#                 {
-#                     "role": "system",
-#                     "content": "Generate a background story with this NFT traits, it is an osciloscope themed robot who is part of WebtrES club."
-#                 },
-#                 {
-#                     "role": "user",
-#                     "content": traits
-#                 }
-#             ],
-#             temperature=0.8,
-#             max_tokens=100,
-#             top_p=1,
-#             frequency_penalty=0,
-#             presence_penalty=0
-#         )
-
-#         # Extract the generated text from the response
-#         generated_text = response.choices[0].message.content
-
-#         last_full_stop_index = generated_text.rfind('.')
-#         if last_full_stop_index != -1:
-#             generated_text = generated_text[:last_full_stop_index + 1]
-
-#         return generated_text
-
-#     except Exception as e:
-#         print("Error while generating background story:", e)
-#         return ""  # Return an empty string in case of error
-
 def random_color():
     """Generate a random RGB color."""
     return (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
-
 
 def generate_gradient(width, height, color1, color2):
     """Generate a horizontal gradient image of the given size."""
@@ -123,7 +76,7 @@ def generate_properties(combination, idx):
         "description": "",
         # The GIF filename will be based on the index
         "image": f"[placeholder]/{idx+1}.gif",
-        "attributes": []
+        "attributes": {}
     }
 
     trait_types = ["Box", "Buttons", "ArmsAndLegs", "Screen", "Addon"]
@@ -131,13 +84,11 @@ def generate_properties(combination, idx):
     for i, subgroup in enumerate(combination):
         trait_type = trait_types[i]
         trait_value = os.path.basename(subgroup)
-        properties["attributes"].append({
-            "trait_type": trait_type,
-            "value": trait_value
-        })
+        properties["attributes"][trait_type] = trait_value;
 
     return properties
 
+rawdump = {}
 
 for idx, combination in enumerate(combinations):
     gif_frames = []
@@ -162,6 +113,7 @@ for idx, combination in enumerate(combinations):
 
     # Generate properties for the current combination
     properties = generate_properties(combination, idx)
+    #properties["background_color"] = bg_color
 
     # # Generate the background story based on the properties
     # background_story = generate_background_story(properties)
@@ -171,25 +123,14 @@ for idx, combination in enumerate(combinations):
     #with open(os.path.join(frames_dir, f'{idx+1}.json'), 'w') as json_file:
     #    json.dump(properties, json_file, indent=2)
 
-    img_array = generate_gradient(1280, 1280, np.array(random_color()), np.array(random_color()))
-    for i in range(1, 17):
-        # Create a new image base with the background color
-        base_image = Image.fromarray(img_array).convert('RGBA')
-        
-        # Superimpose the gradient image over the base image
-        #base_image = Image.alpha_composite(base_image, gradient_image)
+    # Generate the gradient image
+    gradient_start = np.array(random_color())
+    gradient_end = np.array(random_color())
+    properties["gradient_start"] = gradient_start.tolist()
+    properties["gradient_end"] = gradient_end.tolist()
 
-        for subgroup in combination:
-            frame_file = os.path.join(subgroup, f"Frame{i}.png")
-            if os.path.isfile(frame_file):
-                # Open the image and convert it to a PIL Image object
-                new_layer = Image.open(frame_file).convert('RGBA').resize((1280,1280), Image.Resampling.NEAREST)
-                base_image = Image.alpha_composite(base_image, new_layer)
+    rawdump[idx] = properties
 
-        # Convert the PIL Image object into a numpy array for use with imageio
-        numpy_image = np.array(base_image)
-        gif_frames.append(numpy_image)
-
-    # Create the GIF from the frames
-    imageio.mimsave(os.path.join(
-        frames_dir, f'{idx+1}.gif'), gif_frames, duration=0.1, loop=0)
+# save properties to a json file
+with open(os.path.join(f'basedata-raw.json'), 'w') as json_file:
+    json.dump(rawdump, json_file, indent=2)
