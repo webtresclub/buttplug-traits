@@ -40,6 +40,7 @@ This will upload the Buttplugies image folder to the ipfs.
 ```bash
 npx thirdweb upload ./buttplugs/images/
 ```
+We are using the thirdweb cli to upload the images to ipfs. More info [here](https://portal.thirdweb.com/infrastructure/storage/how-to-use-storage/upload-files-to-ipfs).
 
 The image on ipfs should be:
 ```bash
