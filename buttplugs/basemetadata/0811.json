@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "[placeholder]/0811.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "cat"
+    }
+  ]
+}

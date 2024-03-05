@@ -27,13 +27,47 @@ This will generate a file called `basedata-raw.json` with the precalculated trai
 
 ### Step 2 generate images
 
-We use the precalculated traits to generate the images. We use the following traits to generate the images for each nft, this images will be saving in the folder `./buttplugs/images/`:
+We use the precalculated traits to generate the images. We use the following traits to generate the images for each nft, this images will be saved in the folder `./buttplugs/images/`:
 
 ```bash
 python 2_generate_images.py
 ```
 
-### Step 3 upload images to ipfs
+### Step 3 generate base traits meteadata
+
+We use the precalculated traits to generate the traits in an opensea metadata, this metadata will be saved in the folder `./buttplugs/basemetadata/`:
+
+```bash
+python 3_generate_traits_data.py
+```
+
+Expected format example;
+```json
+{
+  "description": "",
+  "image": "[placeholder]/0014.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "laser"
+    }
+  ]
+}
+```
+
+### Step 4 upload images to ipfs
 
 This will upload the Buttplugies image folder to the ipfs.
 

@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "image": "[placeholder]/0143.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "orange"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "image": "[placeholder]/0280.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "shinyBlack"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ]
+}

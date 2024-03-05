@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "image": "[placeholder]/0164.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "classic"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ]
+}

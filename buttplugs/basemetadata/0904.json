@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "image": "[placeholder]/0904.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "shades"
+    }
+  ]
+}

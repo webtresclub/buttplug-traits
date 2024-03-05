@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "[placeholder]/0313.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "cat"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "rocket"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ]
+}

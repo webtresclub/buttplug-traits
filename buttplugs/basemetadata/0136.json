@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "[placeholder]/0136.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "rossoCorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "broken"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "description": "",
+  "image": "[placeholder]/0438.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "retroConsole"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    },
+    {
+      "trait_type": "Addon",
+      "value": "helmet"
+    }
+  ]
+}

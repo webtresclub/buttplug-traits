@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "[placeholder]/0654.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "rossoCorsa"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ]
+}

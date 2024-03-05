@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "[placeholder]/0033.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "forestGreen"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "foundry"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ]
+}

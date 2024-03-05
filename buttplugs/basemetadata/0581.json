@@ -1,0 +1,22 @@
+{
+  "description": "",
+  "image": "[placeholder]/0581.gif",
+  "attributes": [
+    {
+      "trait_type": "Box",
+      "value": "classic"
+    },
+    {
+      "trait_type": "Buttons",
+      "value": "soldier"
+    },
+    {
+      "trait_type": "ArmsAndLegs",
+      "value": "cat"
+    },
+    {
+      "trait_type": "Screen",
+      "value": "snake"
+    }
+  ]
+}
