@@ -27,7 +27,7 @@ This will generate a file called `basedata-raw.json` with the precalculated trai
 
 ### Step 2 generate images
 
-We use the precalculated traits to generate the images. We use the following traits to generate the images for each nft, this images will be saved in the folder `./buttplugs/images/`:
+We use the precalculated traits to generate the images. We use the following traits to generate the images for each nft, this images will be saved in the folder [`./buttplugs/images/`](./buttplugs/images/):
 
 ```bash
 python 2_generate_images.py
@@ -35,7 +35,7 @@ python 2_generate_images.py
 
 ### Step 3 generate base traits meteadata
 
-We use the precalculated traits to generate the traits in an opensea metadata, this metadata will be saved in the folder `./buttplugs/basemetadata/`:
+We use the precalculated traits to generate the traits in an opensea metadata, this metadata will be saved in the folder [`./buttplugs/basemetadata/`](./buttplugs/basemetadata/):
 
 ```bash
 python 3_generate_traits_data.py
@@ -82,6 +82,16 @@ The image on ipfs should be:
 ✔ Files stored at the following IPFS URI: ipfs://QmV4s7NMmDh64Z2GkuqbUmRM7XyN5WcbTn9sSAVvCsK4xQ
 ✔ Open this link to view your upload: https://bafybeidd62ezqvyyviibduxaz2wuuyexkpuwbdfo34wukucxtav7qh3cbe.ipfs.cf-ipfs.com/
 ```
+
+### Step 5 generate Buttpluggy name and description
+
+Using the generate image and traits we generate the Buttpluggy name and description using chatgpt, model `gpt-4-vision-preview`
+
+```bash
+python 5_chatgpt_gen.py
+```
+
+The output will be saved in the folder [`./buttplugs/chatgpt/`](./buttplugs/chatgpt/)
 
 ### TODO
 

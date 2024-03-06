@@ -1,0 +1,1 @@
+npx thirdweb upload ./buttplugs/images/
