@@ -58,13 +58,12 @@ def generate_background_story(properties, idx):
 
         # Extract the generated text from the response
         generated_text = response.choices[0].message.content
-
-        json_str = generated_text.strip('"`').replace('\\"', '"').replace('\\n', "").replace('json{', "{")
-        # Parse the JSON string into a Python dictionary
+        json_str = generated_text.replace('```json', '').replace("```", '')
         return json.loads(json_str)
         
     except Exception as e:
         print("Error while generating background story:", e)
+        print(json_str)
     
     return ""  # Return an empty string in case of error
 
