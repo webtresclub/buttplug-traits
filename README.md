@@ -105,6 +105,20 @@ python 6_create_final_data.py
 All data will be in the folder [`./buttplugs/final/`](./buttplugs/final/).
 
 
+### Step 7 upload metadata ipfs
+
+This will upload the Buttplugies metadata folder to the ipfs.
+
+```bash
+npx thirdweb upload ./buttplugs/final/
+```
+We are using the thirdweb cli to upload the images to ipfs. More info [here](https://portal.thirdweb.com/infrastructure/storage/how-to-use-storage/upload-files-to-ipfs).
+
+The image on ipfs should be:
+```bash
+TODO
+```
+
 
 ## Contributing
 
