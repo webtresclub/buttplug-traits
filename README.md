@@ -93,9 +93,17 @@ python 5_chatgpt_gen.py
 
 The output will be saved in the folder [`./buttplugs/chatgpt/`](./buttplugs/chatgpt/)
 
-### TODO
+### Step 6 create the final metadata for Opensea
 
-Add more steps, since we still have to generate the metadata and the json file for the nft.
+Create the final metadata merging all previous generated file, this output is compatible with the [Opensea metadata standard](https://docs.opensea.io/docs/metadata-standards)
+
+
+```bash
+python 6_create_final_data.py
+```
+
+All data will be in the folder [`./buttplugs/final/`](./buttplugs/final/).
+
 
 
 ## Contributing
