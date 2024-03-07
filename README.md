@@ -116,7 +116,9 @@ We are using the thirdweb cli to upload the images to ipfs. More info [here](htt
 
 The image on ipfs should be:
 ```bash
-TODO
+✔ Successfully uploaded directory to IPFS
+✔ Files stored at the following IPFS URI: ipfs://QmVyTYpcCweGTRRBjwRGkKoMLHCcrFHDWDrCu1LpmxozSk
+✔ Open this link to view your upload: https://bafybeidrn6w75xycuplw7zk34sxzs2qvcyjnbwivj4x7fsbuchwrafsvhe.ipfs.cf-ipfs.com/
 ```
 
 
